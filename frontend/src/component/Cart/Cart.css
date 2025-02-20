@@ -1,0 +1,341 @@
+.emptyCart {
+    margin: auto;
+    text-align: center;
+    padding: 10vmax;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .emptyCart > svg {
+    font-size: 5vmax;
+    color: tomato;
+  }
+  .emptyCart > p {
+    font-size: 2vmax;
+  }
+  .emptyCart > a {
+    background-color: rgb(51, 51, 51);
+    color: white;
+    border: none;
+    padding: 1vmax 3vmax;
+    cursor: pointer;
+    font: 400 1vmax "Roboto";
+    text-decoration: none;
+  }
+  
+  .cartPage {
+    padding: 5vmax;
+  }
+  
+  .cartHeader {
+    background-color: tomato;
+    width: 90%;
+    box-sizing: border-box;
+    margin: auto;
+    color: white;
+    display: grid;
+    grid-template-columns: 80% 30%;
+    font: 300 1.0vmax "Roboto";
+  }
+  .cartHeader > p {
+    margin: 10px;
+  }
+  /* .cartHeader > p:last-child {
+    text-align: end;
+  } */
+  
+  .cartContainer {
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 80% 30%;
+  }
+  
+  .cartInput {
+    display: flex;
+    align-items: center;
+    height: 8vmax;
+  }
+  
+  .cartInput > button {
+    border: none;
+    background-color: rgba(0, 0, 0, 0.616);
+    padding: 0.5vmax;
+    cursor: pointer;
+    color: rgb(16, 15, 15);
+    transition: all 0.5s;
+  }
+  .cartInput > button:hover {
+    background-color: rgba(0, 0, 0, 0.767);
+  }
+  
+  .cartInput > input {
+    border: none;
+    padding: 0.9vmax;
+    width: 1vmax;
+    text-align: center;
+    outline: none;
+    font: 400 0.8vmax "Roboto";
+    color: rgba(0, 0, 0, 0.74);
+  }
+  
+  .cartSubtotal {
+    display: flex;
+    padding: 0.5vmax;
+    height: 8vmax;
+    align-items: center;
+    box-sizing: border-box;
+    font: 300 1vmax cursive;
+    justify-content: flex-end;
+    color: rgba(0, 0, 0, 0.753);
+  }
+  
+  .cartGrossProfit {
+    display: grid;
+    grid-template-columns: 2fr 1.2fr;
+  }
+  
+  .cartGrossProfitBox {
+    border-top: 3px solid tomato;
+    margin: 1vmax 4vmax;
+    box-sizing: border-box;
+    padding: 2vmax 0;
+    font: 300 1vmax "Roboto";
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .checkOutBtn {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .checkOutBtn > button {
+    background-color: tomato;
+    color: white;
+    border: none;
+    padding: 0.8vmax 4vmax;
+    width: 50%;
+    font: 300 0.8vmax "Roboto";
+    margin: 1vmax 4vmax;
+    cursor: pointer;
+    border-radius: 30px;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .cartPage {
+      padding: 0;
+      min-height: 60vh;
+    }
+  
+    .cartHeader {
+      width: 100%;
+      font: 300 1.7vmax "Roboto";
+      grid-template-columns: 3fr 1fr 1fr;
+    }
+  
+    .cartContainer {
+      width: 100%;
+      grid-template-columns: 3fr 1fr 1fr;
+    }
+  
+    .cartInput {
+      height: 20vmax;
+    }
+  
+    .cartInput > button {
+      padding: 1.5vmax;
+    }
+  
+    .cartInput > input {
+      width: 2vmax;
+      padding: 1.5vmax;
+      font: 400 1.8vmax "Roboto";
+    }
+  
+    .cartSubtotal {
+      padding: 1.5vmax;
+      height: 20vmax;
+      font: 300 2vmax "Roboto";
+    }
+  
+    .cartGrossProfit {
+      display: grid;
+      grid-template-columns: 0fr 2fr;
+    }
+  
+    .cartGrossProfitBox {
+      padding: 2vmax;
+      font: 300 2vmax "Roboto";
+    }
+  
+    .checkOutBtn > button {
+      padding: 2vmax 4vmax;
+      width: 100%;
+      font: 300 2vmax "Roboto";
+    }
+  } 
+  
+
+
+  .modalPaper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1000px;
+    padding: 50px;
+    background-color: white;
+    box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.2);
+    height: auto; /* Set height to auto for dynamic content */
+    max-height: 80vh; /* Optionally, set a maximum height to avoid excessive stretching */
+    overflow-y: auto; /* Add a vertical scrollbar if the content overflows */
+  }
+
+.modalHeader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0; /* Adjust the padding as needed */
+}
+
+.closeIcon {
+  cursor: pointer;
+  align-self: flex-end;
+  padding-bottom: 20px 0;
+}
+
+.modalCards {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.modalCheckoutBtn {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.card{
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  height: auto; /* Set height to auto for dynamic content */
+    max-height: 100vh; /* Optionally, set a maximum height to avoid excessive stretching */
+    overflow-y: auto; /* Add a vertical scrollbar if the content overflows */
+}
+
+.billingFormat {
+  display: flex;
+  flex-direction: column;
+}
+
+.billingItem {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px; /* Adjust spacing as needed */
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #4bc970;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+  /* align-self: flex-end; */
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
+.storeName {
+  margin-bottom: 10px;
+}
+
+.deliveryType {
+  margin-bottom: 10px;
+}
+
+.innerCard {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+items-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-bottom: 16px;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.item-name {
+  flex-grow: 1;
+}
+
+.item-head {
+  display: flex;
+  margin-bottom: 5px;
+  font-size: 13px;
+  font-weight: bold;
+  margin-left: -80px;
+  margin-right: 30px;
+}
+
+.item-sub-head {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2px;
+  font-size: 10px;
+  margin-left: -80px;
+  margin-right: 30px;
+}
+
+.item-price {
+  width: 100px;
+  text-align: right;
+}
+
+.item + .item {
+  border-top: 1px solid #ccc;
+  padding-top: 8px;
+}
+
+.total-price {
+  font-size: 12px;
+  font-weight: bold;
+  text-align: right;
+  padding-left: 30px;
+}
+
+.selected {
+  background-color: #333; 
+}

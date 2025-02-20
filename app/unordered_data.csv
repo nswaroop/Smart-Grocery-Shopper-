@@ -1,0 +1,1579 @@
+Product_Code,Store,Product_Category,Product_Name,Min_Price,Max_Price,Current_Price,Discount_Price
+AL188,Aldi,Frozen,Frozen Organic shrimp,2.32,3.25,2.63,2.57
+TA288,Target,Health Supplies,Cotton balls,5.78,8.61,6.58,6.44
+AL123,Aldi,Canned Goods,Canned Spaghetti sauce,1.07,2.92,2.06,2.0
+TA009,Target,Dairy,Whipped Cream,2.09,3.24,2.84,2.83
+WA515,Walmart,Grains and Lentils,Organic Wild Rice,0.84,2.96,2.0,1.94
+AL475,Aldi,Sweets,Toblerone,6.27,8.85,8.18,8.14
+WA523,Walmart,Grains and Lentils,Organic Bulgur,2.69,3.9,3.39,3.19
+WA275,Walmart,Health Supplies,Adhesive tape,4.85,6.94,5.35,4.97
+WA495,Walmart,Grains and Lentils,Basmati Rice,5.59,8.15,7.18,6.85
+WA066,Walmart,Produce,Organic Avocado,5.67,7.62,6.77,6.44
+TA147,Target,Beverages,Tea,7.68,10.57,8.35,8.12
+TA454,Target,Sweets,Hersheys Milk Chocolate,6.37,8.76,6.83,6.8
+TA197,Target,Frozen,Frozen Organic spinach,3.56,4.54,3.72,3.69
+TA255,Target,Spices,Fenugreek,7.44,9.31,7.82,7.76
+AL268,Aldi,Spices,Tarragon,6.14,7.98,7.18,7.15
+TA144,Target,Beverages,Spring Water,6.13,9.04,7.68,7.61
+WA352,Walmart,Baby Care,Baby clothes,4.29,5.0,4.96,4.75
+AL465,Aldi,Sweets,Smarties,4.55,6.16,4.87,4.83
+WA030,Walmart,Dairy,Organic Parmesan Cheese,3.14,4.35,3.74,3.52
+WA031,Walmart,Produce,Apple,6.34,6.96,7.16,6.91
+AL496,Aldi,Grains and Lentils,Wild Rice,3.21,5.3,4.1,4.05
+AL518,Aldi,Grains and Lentils,Organic Couscous,1.61,4.31,2.77,2.77
+TA002,Target,Dairy,Cheese,0.9,1.55,1.26,1.26
+TA139,Target,Canned Goods,Organic Canned Coconut milk,5.07,7.05,5.51,5.48
+AL106,Aldi,Canned Goods,Canned Corn,2.96,5.57,4.6,4.52
+TA295,Target,Health Supplies,First aid tape,0.56,3.42,2.13,2.09
+TA499,Target,Grains and Lentils,Couscous,5.43,6.13,5.26,5.25
+WA325,Walmart,Bath,Bath Mat,3.42,5.72,4.36,4.27
+AL341,Aldi,Baby Care,Baby shampoo and body wash combo,0.59,1.65,1.14,1.11
+TA053,Target,Produce,Organic Orange,7.5,8.25,7.45,7.34
+WA060,Walmart,Produce,Organic Broccoli,6.42,8.81,8.27,8.18
+AL117,Aldi,Canned Goods,Canned Mushrooms,3.12,5.59,3.93,3.85
+TA179,Target,Frozen,Frozen berries,1.28,3.96,2.65,2.62
+TA294,Target,Health Supplies,Insect repellent,6.68,9.36,8.33,8.25
+TA262,Target,Spices,Dill,3.0,5.79,4.59,4.46
+TA182,Target,Frozen,Frozen pasta,2.06,4.87,3.61,3.57
+TA361,Target,Baby Care,Teething toys,2.26,5.1,3.92,3.85
+TA090,Target,Condiments,Ranch Dressing,4.76,5.53,4.84,4.82
+WA501,Walmart,Grains and Lentils,Millet,2.04,2.75,2.16,2.02
+WA024,Walmart,Dairy,Organic Whipped Cream,6.79,9.77,7.51,7.07
+WA375,Walmart,Flour,Quinoa Flour,4.67,7.44,6.49,6.39
+WA033,Walmart,Produce,Orange,2.02,3.48,2.86,2.64
+TA413,Target,Office Supplies,Pencil,5.98,8.66,7.83,7.61
+AL251,Aldi,Spices,Paprika,3.98,6.72,5.19,5.16
+TA077,Target,Meat,Shrimp,0.99,3.32,2.2,2.16
+TA502,Target,Grains and Lentils,Oats,7.73,8.4,7.71,7.57
+TA257,Target,Spices,Thyme,1.5,3.88,2.47,2.45
+WA345,Walmart,Baby Care,Baby pacifiers,4.76,6.23,5.79,5.42
+AL074,Aldi,Meat,Turkey,7.21,9.57,7.92,7.56
+AL291,Aldi,Health Supplies,Allergy medication,1.72,3.21,2.63,2.59
+WA174,Walmart,Frozen,Frozen yogurt,4.81,6.56,6.13,5.7
+TA473,Target,Sweets,Ferrero Rocher,4.87,5.93,4.89,4.75
+WA381,Walmart,Flour,Soy Flour,1.98,4.04,3.07,2.96
+TA103,Target,Condiments,Miso Paste,7.89,9.34,8.08,7.88
+TA464,Target,Sweets,Baby Ruth,5.3,7.93,6.45,6.31
+TA104,Target,Canned Goods,Canned Tomatoes,7.28,7.85,8.25,8.03
+TA181,Target,Frozen,Frozen garlic bread,1.2,1.9,1.46,1.44
+WA142,Walmart,Canned Goods,Organic Canned Artichoke hearts,2.23,3.5,2.82,2.74
+AL220,Aldi,Oils,Pumpkin Seed Oil,2.69,4.75,3.69,3.6
+WA240,Walmart,Oils,Organic Pumpkin Seed Oil,6.01,6.92,5.89,5.47
+AL007,Aldi,Dairy,Cottage Cheese,1.97,4.78,3.28,3.17
+WA163,Walmart,Beverages,Lime Soda,5.24,6.45,6.16,6.01
+TA463,Target,Sweets,Jolly Rancher,7.54,9.54,7.9,7.84
+AL375,Aldi,Flour,Quinoa Flour,5.78,7.18,6.13,5.91
+TA522,Target,Grains and Lentils,Organic Amaranth,3.81,6.33,4.66,4.53
+AL227,Aldi,Oils,Organic Sesame Oil,3.41,4.52,4.05,4.05
+AL440,Aldi,Office Supplies,Desk Lamp,2.78,5.75,4.19,4.06
+WA221,Walmart,Oils,Mustard Oil,1.31,3.93,2.4,2.31
+AL390,Aldi,Office Supplies,Envelopes,4.21,6.36,5.12,5.06
+WA439,Walmart,Office Supplies,Sharpener,4.26,6.36,4.95,4.72
+WA384,Walmart,Office Supplies,Tissue paper,6.41,9.25,7.39,6.93
+WA299,Walmart,Health Supplies,Elastic bandages,5.42,7.84,6.17,5.96
+WA248,Walmart,Spices,Cardamom,5.22,6.52,6.28,6.28
+TA501,Target,Grains and Lentils,Millet,2.55,5.47,4.1,4.08
+AL140,Aldi,Canned Goods,Organic Canned Sardines,1.95,4.65,3.55,3.55
+AL193,Aldi,Frozen,Frozen Organic ice cream,5.78,8.58,7.8,7.41
+WA262,Walmart,Spices,Dill,3.67,4.68,3.82,3.54
+WA514,Walmart,Grains and Lentils,Organic Basmati Rice,6.64,7.9,7.58,7.07
+WA333,Walmart,Baby Care,Baby wipes,4.74,7.22,6.47,6.23
+TA362,Target,Flour,All-Purpose Flour,0.75,3.3,2.2,2.18
+WA469,Walmart,Sweets,Swedish Fish,0.7,2.69,1.68,1.58
+TA448,Target,Office Supplies,Mouse Pad,0.74,2.03,1.26,1.23
+TA010,Target,Dairy,Condensed Milk,1.72,2.7,2.35,2.3
+AL179,Aldi,Frozen,Frozen berries,4.88,6.11,5.81,5.74
+WA340,Walmart,Baby Care,Baby wash,2.93,4.89,3.93,3.91
+TA026,Target,Dairy,Organic Evaporated Milk,3.25,6.15,5.06,4.99
+WA433,Walmart,Office Supplies,Calculator,1.97,3.62,2.83,2.73
+AL113,Aldi,Canned Goods,Canned Salmon,1.41,3.09,2.41,2.31
+TA379,Target,Flour,Cornmeal,2.29,2.91,2.8,2.78
+WA050,Walmart,Produce,Blueberry,5.02,6.46,5.82,5.52
+WA245,Walmart,Spices,Turmeric,2.19,2.71,2.26,2.18
+TA007,Target,Dairy,Cottage Cheese,5.91,7.87,6.3,6.25
+WA355,Walmart,Baby Care,Baby blankets,5.29,7.6,6.91,6.59
+AL261,Aldi,Spices,Parsley,7.85,8.54,7.58,7.29
+AL155,Aldi,Beverages,Wine,3.42,5.88,4.44,4.41
+WA298,Walmart,Health Supplies,Ace bandage,6.44,8.2,7.33,7.19
+TA239,Target,Oils,Organic Palm Oil,5.95,8.38,6.48,6.4
+WA204,Walmart,Oils,Olive Oil,4.41,6.6,5.73,5.53
+WA100,Walmart,Condiments,Horseradish,4.12,5.57,4.62,4.39
+TA063,Target,Produce,Organic Bell Pepper,2.54,4.88,3.88,3.77
+AL276,Aldi,Health Supplies,Gauze pads,6.61,7.99,7.83,7.79
+TA196,Target,Frozen,Frozen Organic corn,6.97,9.72,8.18,7.95
+WA304,Walmart,Bath,Conditioner,1.18,2.82,2.12,1.97
+AL283,Aldi,Health Supplies,Scissors,3.85,6.77,4.99,4.85
+AL472,Aldi,Sweets,Lindt Lindor,6.12,8.67,6.99,6.95
+WA452,Walmart,Sweets,Snickers,1.94,3.15,2.45,2.26
+TA218,Target,Oils,Macadamia Nut Oil,6.28,8.93,7.14,6.97
+WA482,Walmart,Sweets,Whoppers,1.06,2.04,1.43,1.4
+WA382,Walmart,Office Supplies,Notebook,6.93,9.8,9.18,8.49
+WA125,Walmart,Canned Goods,Organic Canned Beans,6.0,8.74,7.92,7.78
+WA276,Walmart,Health Supplies,Gauze pads,3.6,5.56,4.68,4.62
+WA343,Walmart,Baby Care,Baby nail clippers,3.01,6.0,4.65,4.57
+WA186,Walmart,Frozen,Frozen Organic pizza,5.61,6.51,5.84,5.72
+WA185,Walmart,Frozen,Frozen Organic fruit,2.48,4.31,3.32,3.07
+WA301,Walmart,Health Supplies,Multivitamins,1.51,4.24,3.02,2.89
+WA052,Walmart,Produce,Organic Banana,6.47,8.76,7.06,6.9
+WA071,Walmart,Meat,Beef,6.78,7.73,7.9,7.48
+TA125,Target,Canned Goods,Organic Canned Beans,0.79,3.46,2.0,1.97
+TA157,Target,Beverages,Coca-Cola,1.77,3.06,2.34,2.33
+WA077,Walmart,Meat,Shrimp,5.88,6.54,6.82,6.44
+WA519,Walmart,Grains and Lentils,Organic Farro,2.07,3.87,3.24,3.02
+TA143,Target,Canned Goods,Organic Canned Spaghetti sauce,8.49,9.61,9.6,9.38
+TA406,Target,Office Supplies,Tracing paper,2.1,3.89,3.04,2.95
+WA252,Walmart,Spices,Chili powder,5.8,7.49,7.19,7.12
+TA400,Target,Office Supplies,Paper napkins,1.28,1.95,1.49,1.48
+TA205,Target,Oils,Coconut Oil,8.9,11.67,10.27,10.17
+TA389,Target,Office Supplies,Construction paper,5.0,7.0,5.56,5.46
+WA070,Walmart,Produce,Organic Blueberry,6.3,7.05,7.13,7.02
+WA124,Walmart,Canned Goods,Organic Canned Tomatoes,3.67,5.03,4.23,4.0
+AL479,Aldi,Sweets,Pop Rocks,6.05,7.23,6.32,6.25
+WA136,Walmart,Canned Goods,Organic Canned Green beans,2.14,3.85,2.89,2.87
+AL038,Aldi,Produce,Lettuce,6.33,9.31,8.07,7.95
+AL258,Aldi,Spices,Rosemary,7.67,8.98,7.98,7.74
+AL226,Aldi,Oils,Organic Sunflower Oil,1.64,2.79,2.38,2.29
+TA439,Target,Office Supplies,Sharpener,8.21,10.99,9.05,8.92
+AL010,Aldi,Dairy,Condensed Milk,2.09,2.95,2.6,2.48
+WA068,Walmart,Produce,Organic Watermelon,2.77,5.68,3.93,3.63
+TA186,Target,Frozen,Frozen Organic pizza,1.62,3.75,2.92,2.87
+TA334,Target,Baby Care,Baby lotion,4.74,5.43,4.84,4.72
+AL166,Aldi,Frozen,Frozen pizza,5.52,7.55,5.91,5.78
+TA129,Target,Canned Goods,Organic Canned Chicken broth,5.78,7.5,6.51,6.38
+TA029,Target,Dairy,Organic Cheddar Cheese,2.32,4.28,3.05,2.97
+WA454,Walmart,Sweets,Hersheys Milk Chocolate,6.45,7.24,6.49,6.18
+AL104,Aldi,Canned Goods,Canned Tomatoes,2.6,3.65,3.14,3.04
+AL368,Aldi,Flour,Almond Flour,4.18,5.89,5.51,5.26
+AL062,Aldi,Produce,Organic Onion,5.6,7.12,6.71,6.58
+WA238,Walmart,Oils,Organic Macadamia Nut Oil,0.55,3.23,2.07,1.98
+AL066,Aldi,Produce,Organic Avocado,2.0,3.93,3.15,3.11
+WA353,Walmart,Baby Care,Baby socks,3.9,4.94,4.65,4.51
+TA511,Target,Grains and Lentils,Organic Kidney Beans,8.5,10.95,8.99,8.93
+AL311,Aldi,Bath,Loofah,3.09,4.07,3.48,3.39
+WA372,Walmart,Flour,Buckwheat Flour,1.05,3.47,2.08,2.03
+WA416,Walmart,Office Supplies,Highlighter,2.98,4.16,3.39,3.26
+TA232,Target,Oils,Organic Corn Oil,6.79,7.92,7.82,7.66
+TA092,Target,Condiments,Sriracha,2.17,2.98,2.64,2.62
+AL032,Aldi,Produce,Banana,4.31,4.91,4.67,4.5
+TA356,Target,Baby Care,Baby swaddle blankets,7.25,8.2,7.44,7.3
+TA175,Target,Frozen,Frozen peas,7.54,10.2,9.73,9.61
+WA169,Walmart,Frozen,Frozen fish fillets,3.65,5.35,4.67,4.3
+WA199,Walmart,Frozen,Frozen Organic berries,4.08,5.96,5.19,5.18
+AL321,Aldi,Bath,Essential Oils,7.07,8.58,8.1,7.87
+WA428,Walmart,Office Supplies,Drawing Pins,5.05,7.32,5.61,5.45
+TA111,Target,Canned Goods,Canned Chickpeas,5.64,7.84,6.39,6.37
+TA247,Target,Spices,Coriander,6.63,8.97,8.32,8.14
+TA321,Target,Bath,Essential Oils,2.93,4.15,3.27,3.17
+WA332,Walmart,Baby Care,Diapers,2.7,3.94,3.52,3.48
+TA518,Target,Grains and Lentils,Organic Couscous,4.59,5.91,5.01,4.95
+WA317,Walmart,Bath,Shower Cap,5.58,8.15,6.75,6.5
+WA412,Walmart,Office Supplies,Pen,4.92,5.49,5.57,5.44
+TA311,Target,Bath,Loofah,7.75,8.91,8.67,8.53
+AL136,Aldi,Canned Goods,Organic Canned Green beans,0.54,2.65,1.62,1.61
+WA260,Walmart,Spices,Basil,6.32,7.54,7.07,6.58
+AL045,Aldi,Produce,Mushroom,3.12,6.09,4.32,4.14
+WA045,Walmart,Produce,Mushroom,1.34,2.61,1.9,1.77
+WA241,Walmart,Oils,Organic Mustard Oil,0.91,1.84,1.5,1.5
+WA290,Walmart,Health Supplies,Cold and flu medicine,6.57,9.01,7.09,6.8
+TA229,Target,Oils,Organic Peanut Oil,2.98,3.55,3.19,3.18
+AL382,Aldi,Office Supplies,Notebook,5.11,5.71,5.78,5.55
+TA019,Target,Dairy,Organic Butter,3.55,4.29,3.85,3.8
+AL039,Aldi,Produce,Cucumber,1.72,4.2,3.01,2.89
+WA307,Walmart,Bath,Bath Bombs,3.15,4.51,3.92,3.77
+AL450,Aldi,Sweets,Kit Kat,7.04,8.19,7.21,6.89
+WA116,Walmart,Canned Goods,Canned Green beans,5.18,7.02,6.6,6.47
+WA351,Walmart,Baby Care,Baby bibs,1.25,2.24,1.81,1.71
+AL453,Aldi,Sweets,Twix,4.03,5.32,4.53,4.41
+AL006,Aldi,Dairy,Sour Cream,7.07,9.64,8.41,8.21
+WA176,Walmart,Frozen,Frozen corn,2.81,4.52,3.72,3.47
+AL121,Aldi,Canned Goods,Canned Refried beans,7.28,8.61,8.68,8.63
+WA484,Walmart,Sweets,Peppermint Pattie,4.9,5.7,4.98,4.63
+WA362,Walmart,Flour,All-Purpose Flour,2.65,3.89,3.32,3.24
+AL456,Aldi,Sweets,Skittles,2.11,2.91,2.54,2.45
+WA079,Walmart,Meat,Bacon,1.21,1.93,1.47,1.45
+TA152,Target,Beverages,Hot Chocolate Mix,5.53,6.04,5.25,5.2
+AL402,Aldi,Office Supplies,Copy paper,4.72,6.38,5.11,4.88
+AL445,Aldi,Office Supplies,Legal Pads,1.94,3.05,2.33,2.23
+TA453,Target,Sweets,Twix,3.24,6.14,4.43,4.36
+AL328,Aldi,Bath,Body Scrub,2.95,4.35,3.55,3.5
+TA216,Target,Oils,Almond Oil,6.32,8.78,6.84,6.79
+WA016,Walmart,Dairy,Organic Milk,3.94,5.19,4.43,4.38
+TA095,Target,Condiments,Pesto,4.65,6.47,5.01,4.99
+WA423,Walmart,Office Supplies,Tape Dispenser,5.63,8.15,6.73,6.43
+WA383,Walmart,Office Supplies,Printer paper,1.61,2.72,2.02,1.93
+AL235,Aldi,Oils,Organic Flaxseed Oil,6.08,7.38,7.2,6.97
+AL367,Aldi,Flour,Self-Rising Flour,1.47,4.14,3.0,2.9
+AL065,Aldi,Produce,Organic Mushroom,6.27,8.49,7.29,7.28
+AL516,Aldi,Grains and Lentils,Organic Barley,3.76,4.5,4.3,4.13
+TA059,Target,Produce,Organic Cucumber,6.95,9.55,8.89,8.65
+TA363,Target,Flour,Whole Wheat Flour,8.53,10.68,10.27,10.07
+TA424,Target,Office Supplies,Index Cards,6.86,8.55,7.16,6.97
+AL183,Aldi,Frozen,Frozen desserts,3.83,4.53,3.91,3.82
+WA200,Walmart,Frozen,Frozen Organic dumplings,4.18,6.09,5.12,4.93
+AL329,Aldi,Bath,Bath Gloves,4.11,6.19,5.31,5.15
+AL263,Aldi,Spices,Cayenne pepper,7.98,9.25,9.26,9.15
+TA145,Target,Beverages,Coffee Beans,3.61,5.2,4.23,4.13
+WA310,Walmart,Bath,Shower Gel,2.34,2.96,2.8,2.7
+TA284,Target,Health Supplies,First aid manual,8.08,9.21,9.07,9.06
+AL024,Aldi,Dairy,Organic Whipped Cream,2.2,4.4,3.47,3.32
+TA313,Target,Bath,Bath Towel,3.48,4.1,3.98,3.93
+TA342,Target,Baby Care,Baby lotion with chamomile,4.45,5.8,4.98,4.89
+TA018,Target,Dairy,Organic Yogurt,5.38,6.49,5.47,5.34
+AL304,Aldi,Bath,Conditioner,1.94,3.32,2.58,2.57
+AL397,Aldi,Office Supplies,Newspaper,7.9,9.22,9.06,8.69
+TA415,Target,Office Supplies,Ruler,2.05,3.81,2.95,2.93
+TA013,Target,Dairy,Mozzarella Cheese,2.55,3.96,3.16,3.11
+TA066,Target,Produce,Organic Avocado,3.7,5.42,4.48,4.37
+WA057,Walmart,Produce,Organic Carrot,4.95,6.32,5.32,5.1
+WA074,Walmart,Meat,Turkey,4.15,5.88,4.83,4.83
+TA004,Target,Dairy,Butter,3.09,3.84,3.16,3.15
+WA434,Walmart,Office Supplies,Clipboard,0.8,3.2,2.01,1.86
+AL081,Aldi,Meat,Ham,5.92,6.53,6.82,6.59
+TA187,Target,Frozen,Frozen Organic chicken breasts,2.15,5.0,3.25,3.21
+WA044,Walmart,Produce,Spinach,2.1,3.67,3.17,3.08
+TA045,Target,Produce,Mushroom,1.15,2.35,1.88,1.84
+WA417,Walmart,Office Supplies,Stapler,0.85,1.4,1.04,0.96
+AL459,Aldi,Sweets,Butterfinger,4.97,6.44,6.01,5.96
+WA271,Walmart,Spices,Caraway seeds,5.36,6.17,5.77,5.33
+WA102,Walmart,Condiments,Chutney,5.4,7.66,6.48,6.4
+TA506,Target,Grains and Lentils,Black-eyed Peas,2.33,4.34,3.56,3.48
+TA076,Target,Meat,Fish,8.44,10.98,9.33,9.14
+TA093,Target,Condiments,Worcestershire Sauce,2.9,5.61,4.13,4.05
+WA108,Walmart,Canned Goods,Canned Tuna,1.0,1.96,1.43,1.37
+WA426,Walmart,Office Supplies,Folders,5.04,7.49,6.05,5.81
+TA384,Target,Office Supplies,Tissue paper,1.67,2.86,2.04,1.98
+AL160,Aldi,Beverages,Mango Lassi,4.9,5.86,5.63,5.51
+AL050,Aldi,Produce,Blueberry,1.64,2.72,2.09,2.05
+TA525,Target,Grains and Lentils,Organic Black-eyed Peas,1.64,2.49,2.01,1.95
+TA484,Target,Sweets,Peppermint Pattie,7.21,8.62,8.11,7.88
+AL052,Aldi,Produce,Organic Banana,7.05,7.62,8.06,7.95
+AL146,Aldi,Beverages,Instant Coffee,2.89,5.48,4.48,4.45
+WA171,Walmart,Frozen,Frozen breakfast items,4.53,7.08,6.12,5.78
+TA318,Target,Bath,Exfoliating Scrub,5.3,7.43,6.82,6.72
+TA368,Target,Flour,Almond Flour,8.98,9.79,9.54,9.53
+WA129,Walmart,Canned Goods,Organic Canned Chicken broth,2.64,3.39,3.31,3.06
+WA367,Walmart,Flour,Self-Rising Flour,5.17,6.82,5.81,5.77
+TA126,Target,Canned Goods,Organic Canned Corn,1.85,3.6,2.7,2.7
+TA096,Target,Condiments,Guacamole,7.54,8.56,7.88,7.66
+TA261,Target,Spices,Parsley,6.52,8.97,7.56,7.41
+AL147,Aldi,Beverages,Tea,7.29,8.95,7.51,7.25
+WA406,Walmart,Office Supplies,Tracing paper,4.99,7.35,6.28,6.03
+AL492,Aldi,Grains and Lentils,Kidney Beans,6.05,8.01,7.51,7.24
+WA272,Walmart,Spices,Celery seeds,3.29,5.46,4.3,4.17
+AL422,Aldi,Office Supplies,Glue Stick,4.77,6.07,5.58,5.53
+WA395,Walmart,Office Supplies,Paper cups,6.34,9.2,7.44,7.33
+WA354,Walmart,Baby Care,Baby hats,6.29,8.56,6.71,6.2
+TA322,Target,Bath,Candles,8.41,10.41,9.01,8.84
+TA106,Target,Canned Goods,Canned Corn,4.72,7.35,6.51,6.49
+AL178,Aldi,Frozen,Frozen broccoli,5.3,7.68,6.33,6.28
+WA486,Walmart,Sweets,York Peppermint Pattie,3.9,4.95,4.64,4.55
+AL484,Aldi,Sweets,Peppermint Pattie,7.13,7.68,7.36,7.06
+AL380,Aldi,Flour,Semolina Flour,7.55,10.44,8.9,8.48
+TA423,Target,Office Supplies,Tape Dispenser,5.81,7.11,6.51,6.32
+TA449,Target,Sweets,M&Ms,3.72,6.02,4.79,4.73
+WA232,Walmart,Oils,Organic Corn Oil,2.82,3.56,3.03,2.84
+AL298,Aldi,Health Supplies,Ace bandage,4.97,6.27,6.07,5.89
+TA060,Target,Produce,Organic Broccoli,8.68,11.33,9.46,9.22
+WA164,Walmart,Frozen,Frozen vegetables,6.97,7.8,6.9,6.86
+TA240,Target,Oils,Organic Pumpkin Seed Oil,5.19,6.45,5.97,5.95
+WA507,Walmart,Grains and Lentils,Green Lentils,2.92,5.53,4.33,3.99
+TA330,Target,Bath,Bath Pillow,4.84,7.35,5.65,5.54
+AL244,Aldi,Spices,Cinnamon,3.38,4.87,3.86,3.8
+AL198,Aldi,Frozen,Frozen Organic broccoli,3.61,5.94,5.02,4.93
+WA193,Walmart,Frozen,Frozen Organic ice cream,4.83,7.33,6.2,6.05
+AL195,Aldi,Frozen,Frozen Organic peas,4.8,6.57,5.72,5.64
+WA064,Walmart,Produce,Organic Spinach,6.94,9.33,8.93,8.85
+TA230,Target,Oils,Organic Grapeseed Oil,4.74,6.33,5.99,5.83
+TA421,Target,Office Supplies,Correction Tape,3.52,6.2,5.23,5.16
+TA475,Target,Sweets,Toblerone,2.93,5.64,4.68,4.58
+TA488,Target,Sweets,Maltesers,4.7,5.86,5.42,5.4
+AL471,Aldi,Sweets,Hersheys Kisses,7.54,8.68,8.73,8.49
+TA316,Target,Bath,Bathrobe,7.64,9.47,9.02,8.97
+TA416,Target,Office Supplies,Highlighter,1.72,3.3,2.54,2.48
+AL040,Aldi,Produce,Broccoli,1.3,1.81,1.69,1.61
+WA219,Walmart,Oils,Palm Oil,2.27,4.61,3.14,3.0
+TA003,Target,Dairy,Yogurt,0.72,1.39,1.07,1.04
+WA287,Walmart,Health Supplies,Alcohol swabs,3.06,3.99,3.83,3.7
+AL223,Aldi,Oils,Jojoba Oil,4.44,5.89,5.13,5.08
+WA480,Walmart,Sweets,Jawbreakers,5.9,6.93,6.89,6.48
+TA168,Target,Frozen,Frozen shrimp,7.45,10.05,9.53,9.42
+AL300,Aldi,Health Supplies,Prescription medications,3.08,4.51,3.94,3.81
+AL249,Aldi,Spices,Cloves,5.16,5.91,5.08,4.93
+AL017,Aldi,Dairy,Organic Cheese,4.02,5.67,4.91,4.75
+WA465,Walmart,Sweets,Smarties,1.83,2.74,2.42,2.24
+AL098,Aldi,Condiments,Hummus,5.64,6.9,5.85,5.59
+AL125,Aldi,Canned Goods,Organic Canned Beans,4.82,6.06,5.44,5.31
+TA057,Target,Produce,Organic Carrot,0.67,1.23,0.9,0.9
+TA086,Target,Condiments,Mayonnaise,6.94,7.78,7.63,7.62
+AL060,Aldi,Produce,Organic Broccoli,4.55,5.82,5.18,5.17
+WA472,Walmart,Sweets,Lindt Lindor,6.29,8.38,7.72,7.31
+AL080,Aldi,Meat,Sausage,6.79,8.87,8.6,8.45
+WA440,Walmart,Office Supplies,Desk Lamp,0.66,3.13,1.76,1.69
+TA293,Target,Health Supplies,Sunscreen,3.85,4.89,4.6,4.6
+AL057,Aldi,Produce,Organic Carrot,4.69,6.27,5.5,5.26
+AL161,Aldi,Beverages,Ginger Ale,6.29,8.83,7.43,7.08
+AL093,Aldi,Condiments,Worcestershire Sauce,1.59,2.65,2.08,2.05
+AL340,Aldi,Baby Care,Baby wash,3.12,5.4,4.3,4.14
+AL520,Aldi,Grains and Lentils,Organic Millet,2.98,4.65,3.81,3.67
+WA278,Walmart,Health Supplies,Antibacterial ointment,4.26,6.21,5.38,5.21
+AL175,Aldi,Frozen,Frozen peas,5.46,8.0,7.15,7.13
+AL399,Aldi,Office Supplies,Catalogs,7.94,9.0,9.04,8.62
+AL466,Aldi,Sweets,Toffee,7.3,10.09,9.05,8.63
+WA237,Walmart,Oils,Organic Hazelnut Oil,4.36,5.62,4.69,4.55
+AL119,Aldi,Canned Goods,Canned Coconut milk,5.09,8.06,6.77,6.54
+AL267,Aldi,Spices,Allspice,5.0,7.22,6.17,6.03
+AL468,Aldi,Sweets,Gummy Bears,1.04,3.0,1.97,1.94
+WA487,Walmart,Sweets,Hersheys Special Dark,3.37,3.87,3.91,3.73
+AL091,Aldi,Condiments,Honey Mustard,7.47,9.75,8.58,8.36
+WA209,Walmart,Oils,Peanut Oil,2.14,4.91,3.7,3.46
+WA429,Walmart,Office Supplies,Markers,3.16,5.8,4.11,3.95
+AL297,Aldi,Health Supplies,Hot water bottle,6.08,7.06,6.93,6.9
+WA463,Walmart,Sweets,Jolly Rancher,2.64,5.47,4.41,4.27
+WA059,Walmart,Produce,Organic Cucumber,6.88,8.56,7.59,7.45
+WA368,Walmart,Flour,Almond Flour,0.89,3.13,1.99,1.85
+TA051,Target,Produce,Organic Apple,2.33,4.44,3.47,3.38
+WA483,Walmart,Sweets,Rolo,6.54,8.57,6.84,6.82
+AL394,Aldi,Office Supplies,Paper plates,4.43,6.43,5.82,5.73
+AL201,Aldi,Frozen,Frozen Organic garlic bread,6.13,7.8,6.97,6.69
+TA267,Target,Spices,Allspice,0.78,3.7,2.3,2.29
+AL222,Aldi,Oils,Soybean Oil,6.8,8.85,7.35,7.28
+TA425,Target,Office Supplies,Post-it Notes,2.71,3.99,3.02,2.94
+TA391,Target,Office Supplies,Post-it pads,8.89,11.74,9.65,9.54
+WA293,Walmart,Health Supplies,Sunscreen,2.76,4.26,3.6,3.53
+AL366,Aldi,Flour,Pastry Flour,7.33,9.2,8.33,8.05
+AL163,Aldi,Beverages,Lime Soda,7.65,8.54,7.49,7.13
+TA380,Target,Flour,Semolina Flour,7.93,10.09,8.35,8.17
+TA249,Target,Spices,Cloves,4.81,6.11,5.49,5.4
+WA234,Walmart,Oils,Organic Safflower Oil,4.02,4.7,4.5,4.48
+AL043,Aldi,Produce,Bell Pepper,6.49,7.39,6.7,6.44
+WA197,Walmart,Frozen,Frozen Organic spinach,1.64,2.47,1.92,1.86
+AL229,Aldi,Oils,Organic Peanut Oil,6.33,8.58,7.83,7.49
+AL274,Aldi,Health Supplies,Antiseptic wipes,2.71,5.18,3.97,3.87
+WA082,Walmart,Meat,Venison,0.66,3.21,1.98,1.93
+AL424,Aldi,Office Supplies,Index Cards,3.68,5.82,4.79,4.63
+WA421,Walmart,Office Supplies,Correction Tape,5.12,6.43,5.54,5.12
+AL165,Aldi,Frozen,Frozen fruit,0.64,2.04,1.46,1.42
+WA112,Walmart,Canned Goods,Canned Pumpkin,6.85,9.28,7.53,7.23
+AL292,Aldi,Health Supplies,Nasal saline spray,1.76,4.6,3.42,3.41
+TA340,Target,Baby Care,Baby wash,6.61,7.45,6.37,6.21
+AL282,Aldi,Health Supplies,Tweezers,6.01,6.72,6.25,6.12
+TA493,Target,Grains and Lentils,Quinoa,4.35,5.66,4.88,4.81
+AL280,Aldi,Health Supplies,Thermometer,1.94,4.3,2.98,2.98
+TA273,Target,Health Supplies,Band-Aids,2.96,4.04,3.69,3.6
+AL365,Aldi,Flour,Cake Flour,7.36,9.95,8.72,8.31
+WA311,Walmart,Bath,Loofah,4.46,7.04,5.71,5.35
+AL159,Aldi,Beverages,Apple Juice,1.53,2.33,1.88,1.88
+TA411,Target,Office Supplies,Crayon paper,6.38,8.16,6.93,6.92
+TA064,Target,Produce,Organic Spinach,3.14,5.73,4.15,4.03
+TA234,Target,Oils,Organic Safflower Oil,8.56,11.54,9.35,9.16
+AL118,Aldi,Canned Goods,Canned Black olives,0.57,2.62,1.44,1.39
+AL284,Aldi,Health Supplies,First aid manual,2.4,4.99,3.5,3.5
+WA414,Walmart,Office Supplies,Eraser,0.54,3.48,1.89,1.82
+AL514,Aldi,Grains and Lentils,Organic Basmati Rice,7.97,10.66,8.76,8.54
+AL027,Aldi,Dairy,Organic Cream Cheese,3.46,4.88,4.07,3.96
+AL337,Aldi,Baby Care,Baby oil,5.39,6.14,5.66,5.43
+TA242,Target,Oils,Organic Soybean Oil,5.5,7.29,6.74,6.61
+AL461,Aldi,Sweets,Almond Joy,6.45,8.45,6.86,6.74
+AL285,Aldi,Health Supplies,Disposable gloves,6.22,9.09,7.85,7.7
+TA072,Target,Meat,Chicken,1.94,4.21,2.85,2.82
+TA167,Target,Frozen,Frozen chicken breasts,7.55,9.71,8.47,8.46
+AL411,Aldi,Office Supplies,Crayon paper,1.63,2.99,2.24,2.17
+TA263,Target,Spices,Cayenne pepper,2.04,3.09,2.44,2.39
+AL056,Aldi,Produce,Organic Tomato,3.26,3.97,3.43,3.4
+AL474,Aldi,Sweets,Ghirardelli Chocolate,1.4,2.54,2.1,2.06
+WA328,Walmart,Bath,Body Scrub,1.02,3.72,2.21,2.03
+WA255,Walmart,Spices,Fenugreek,1.87,3.6,2.6,2.41
+WA323,Walmart,Bath,Epsom Salt,6.07,8.73,7.12,6.73
+AL149,Aldi,Beverages,Cola,4.9,7.88,6.19,5.98
+TA285,Target,Health Supplies,Disposable gloves,0.79,2.45,1.5,1.48
+TA089,Target,Condiments,Barbecue Sauce,2.07,4.34,3.41,3.4
+AL245,Aldi,Spices,Turmeric,2.54,3.49,2.92,2.81
+TA393,Target,Office Supplies,Wrapping paper,1.34,2.44,2.08,2.08
+TA414,Target,Office Supplies,Eraser,1.61,3.67,2.78,2.72
+AL289,Aldi,Health Supplies,Cough drops,2.55,3.23,3.06,2.97
+TA135,Target,Canned Goods,Organic Canned Pineapple,4.26,5.99,4.96,4.85
+WA087,Walmart,Condiments,Soy Sauce,4.22,5.23,5.06,4.69
+AL059,Aldi,Produce,Organic Cucumber,2.61,4.45,3.85,3.7
+AL442,Aldi,Office Supplies,Spiral Bound Notepad,2.24,4.43,3.22,3.15
+WA366,Walmart,Flour,Pastry Flour,4.15,5.87,4.64,4.49
+WA266,Walmart,Spices,Onion powder,4.72,6.21,5.45,5.27
+WA288,Walmart,Health Supplies,Cotton balls,0.51,1.09,0.85,0.8
+AL510,Aldi,Grains and Lentils,Organic Black Beans,4.54,5.94,5.39,5.32
+WA359,Walmart,Baby Care,Baby monitor,4.19,5.68,5.23,4.94
+AL378,Aldi,Flour,Tapioca Flour,5.21,7.67,5.94,5.74
+AL137,Aldi,Canned Goods,Organic Canned Mushrooms,0.6,3.56,1.91,1.85
+AL420,Aldi,Office Supplies,Push Pins,1.83,4.11,3.25,3.16
+TA058,Target,Produce,Organic Lettuce,2.93,3.56,3.11,3.03
+WA494,Walmart,Grains and Lentils,Brown Rice,6.14,6.66,6.41,6.0
+TA286,Target,Health Supplies,Hand sanitizer,1.21,2.22,1.8,1.8
+WA222,Walmart,Oils,Soybean Oil,2.9,4.63,3.9,3.79
+WA114,Walmart,Canned Goods,Canned Peaches,3.22,6.13,4.77,4.39
+AL219,Aldi,Oils,Palm Oil,6.2,8.84,7.46,7.22
+AL323,Aldi,Bath,Epsom Salt,5.3,6.3,5.74,5.68
+WA175,Walmart,Frozen,Frozen peas,3.42,4.95,4.0,3.98
+WA491,Walmart,Grains and Lentils,Black Beans,3.44,4.65,3.96,3.86
+AL256,Aldi,Spices,Bay leaves,1.8,3.39,2.39,2.38
+WA430,Walmart,Office Supplies,Crayons,3.2,3.98,3.24,3.14
+AL186,Aldi,Frozen,Frozen Organic pizza,3.32,5.17,4.2,4.04
+WA019,Walmart,Dairy,Organic Butter,5.8,7.81,6.36,6.03
+AL234,Aldi,Oils,Organic Safflower Oil,5.32,7.98,6.23,6.2
+WA286,Walmart,Health Supplies,Hand sanitizer,4.05,5.87,5.06,5.01
+TA442,Target,Office Supplies,Spiral Bound Notepad,6.07,6.68,6.69,6.56
+AL493,Aldi,Grains and Lentils,Quinoa,6.03,7.41,6.77,6.58
+AL207,Aldi,Oils,Sesame Oil,4.6,6.31,5.77,5.72
+WA032,Walmart,Produce,Banana,3.85,6.15,4.85,4.65
+AL301,Aldi,Health Supplies,Multivitamins,1.52,2.98,2.44,2.41
+WA211,Walmart,Oils,Avocado Oil,4.08,5.49,4.59,4.53
+TA074,Target,Meat,Turkey,8.43,11.24,10.8,10.65
+WA215,Walmart,Oils,Flaxseed Oil,4.33,5.84,4.76,4.44
+TA023,Target,Dairy,Organic Ice Cream,4.46,6.29,4.94,4.86
+TA375,Target,Flour,Quinoa Flour,6.28,6.93,6.38,6.24
+TA474,Target,Sweets,Ghirardelli Chocolate,6.39,8.8,7.99,7.88
+WA327,Walmart,Bath,Body Lotion,4.15,5.33,4.7,4.59
+AL336,Aldi,Baby Care,Baby soap,5.32,6.64,5.78,5.59
+AL463,Aldi,Sweets,Jolly Rancher,5.58,7.97,6.67,6.65
+WA189,Walmart,Frozen,Frozen Organic fish fillets,3.05,5.6,4.14,3.84
+AL342,Aldi,Baby Care,Baby lotion with chamomile,6.55,7.5,6.38,6.32
+WA342,Walmart,Baby Care,Baby lotion with chamomile,4.72,7.16,6.46,6.19
+TA073,Target,Meat,Pork,8.99,10.17,9.25,9.11
+WA148,Walmart,Beverages,Orange Juice,0.54,2.36,1.53,1.42
+AL067,Aldi,Produce,Organic Pineapple,7.85,8.59,7.48,7.41
+TA481,Target,Sweets,Hersheys Cookies n Creme,6.0,8.5,6.63,6.54
+WA084,Walmart,Condiments,Ketchup,3.4,4.29,4.05,3.74
+AL353,Aldi,Baby Care,Baby socks,1.41,4.19,2.85,2.84
+WA049,Walmart,Produce,Kiwi,4.23,6.84,5.33,5.09
+AL122,Aldi,Canned Goods,Canned Artichoke hearts,6.47,8.45,7.51,7.33
+WA156,Walmart,Beverages,Whiskey,3.94,5.59,4.67,4.32
+WA479,Walmart,Sweets,Pop Rocks,5.55,6.26,6.36,6.35
+AL174,Aldi,Frozen,Frozen yogurt,7.41,10.34,8.09,8.08
+TA354,Target,Baby Care,Baby hats,6.51,9.19,7.71,7.64
+AL055,Aldi,Produce,Organic Strawberry,3.15,3.74,3.21,3.17
+TA373,Target,Flour,Oat Flour,4.09,5.52,5.23,5.12
+AL242,Aldi,Oils,Organic Soybean Oil,3.37,4.34,4.12,3.94
+AL507,Aldi,Grains and Lentils,Green Lentils,4.69,7.49,5.75,5.48
+TA042,Target,Produce,Onion,1.96,4.07,3.12,3.1
+WA180,Walmart,Frozen,Frozen dumplings,3.43,5.08,3.96,3.65
+AL202,Aldi,Frozen,Frozen Organic pasta,2.4,4.33,3.52,3.44
+TA176,Target,Frozen,Frozen corn,2.52,5.46,4.37,4.31
+AL260,Aldi,Spices,Basil,3.12,5.63,3.97,3.85
+WA498,Walmart,Grains and Lentils,Buckwheat,1.13,3.54,2.35,2.27
+AL180,Aldi,Frozen,Frozen dumplings,2.09,4.97,3.63,3.61
+TA398,Target,Office Supplies,Magazines,4.2,4.78,4.47,4.34
+WA364,Walmart,Flour,Bread Flour,4.55,7.41,6.01,5.66
+TA149,Target,Beverages,Cola,0.84,1.46,1.17,1.16
+WA427,Walmart,Office Supplies,Rubber Bands,1.14,2.45,1.93,1.86
+AL517,Aldi,Grains and Lentils,Organic Buckwheat,1.18,4.07,2.49,2.39
+AL210,Aldi,Oils,Grapeseed Oil,6.18,8.16,6.88,6.86
+WA347,Walmart,Baby Care,Bottle warmer,6.72,8.9,8.44,8.2
+AL042,Aldi,Produce,Onion,3.34,4.35,4.08,4.0
+AL417,Aldi,Office Supplies,Stapler,3.75,4.4,4.48,4.3
+TA041,Target,Produce,Potato,8.33,10.12,10.1,9.92
+AL189,Aldi,Frozen,Frozen Organic fish fillets,4.75,7.75,6.5,6.18
+AL308,Aldi,Bath,Bath Salts,5.41,7.16,5.98,5.77
+TA124,Target,Canned Goods,Organic Canned Tomatoes,2.77,4.26,3.78,3.71
+TA101,Target,Condiments,Sweet Chili Sauce,3.82,5.58,4.67,4.55
+TA252,Target,Spices,Chili powder,3.19,5.19,4.0,3.88
+WA244,Walmart,Spices,Cinnamon,6.65,8.5,7.69,7.52
+TA482,Target,Sweets,Whoppers,4.52,7.51,6.19,6.05
+TA065,Target,Produce,Organic Mushroom,3.55,5.92,5.2,5.13
+TA154,Target,Beverages,Beer,2.64,4.15,3.44,3.38
+AL299,Aldi,Health Supplies,Elastic bandages,6.31,8.33,7.3,7.17
+AL130,Aldi,Canned Goods,Organic Canned Soup (various types),1.89,2.92,2.26,2.17
+WA496,Walmart,Grains and Lentils,Wild Rice,2.51,3.66,3.05,2.95
+WA436,Walmart,Office Supplies,Dry Erase Markers,2.71,5.64,3.94,3.9
+AL441,Aldi,Office Supplies,Graph Paper,1.43,3.2,2.54,2.47
+AL470,Aldi,Sweets,Haribo Goldbears,4.81,6.08,5.66,5.43
+WA309,Walmart,Bath,Bar Soap,3.55,4.69,3.91,3.88
+AL290,Aldi,Health Supplies,Cold and flu medicine,4.13,5.85,4.77,4.57
+WA431,Walmart,Office Supplies,Colored Pencils,3.26,4.24,3.65,3.51
+TA457,Target,Sweets,Starburst,3.78,4.78,4.41,4.28
+WA399,Walmart,Office Supplies,Catalogs,4.7,5.66,5.61,5.2
+WA424,Walmart,Office Supplies,Index Cards,6.98,7.85,8.02,8.02
+WA371,Walmart,Flour,Chickpea Flour,0.58,2.96,1.62,1.61
+WA055,Walmart,Produce,Organic Strawberry,3.3,6.24,4.36,4.27
+TA320,Target,Bath,Bath Tray,8.6,9.82,9.1,8.92
+TA088,Target,Condiments,Hot Sauce,7.47,10.21,8.35,8.21
+AL257,Aldi,Spices,Thyme,5.0,7.83,6.02,5.94
+WA313,Walmart,Bath,Bath Towel,3.17,6.08,4.68,4.61
+AL087,Aldi,Condiments,Soy Sauce,7.39,10.22,9.15,8.95
+WA182,Walmart,Frozen,Frozen pasta,0.51,1.97,1.35,1.27
+TA407,Target,Office Supplies,Origami paper,6.78,8.54,7.83,7.65
+WA110,Walmart,Canned Goods,Canned Soup (various types),1.06,3.35,2.2,2.03
+TA001,Target,Dairy,Milk,0.83,2.86,2.0,1.96
+AL073,Aldi,Meat,Pork,6.65,7.34,6.66,6.6
+WA101,Walmart,Condiments,Sweet Chili Sauce,4.95,5.55,5.06,4.88
+TA459,Target,Sweets,Butterfinger,3.91,5.42,4.92,4.86
+AL110,Aldi,Canned Goods,Canned Soup (various types),4.8,6.19,5.83,5.7
+AL395,Aldi,Office Supplies,Paper cups,7.57,9.19,7.6,7.3
+WA267,Walmart,Spices,Allspice,0.87,1.92,1.31,1.21
+AL494,Aldi,Grains and Lentils,Brown Rice,4.6,5.66,5.16,4.95
+WA297,Walmart,Health Supplies,Hot water bottle,2.4,5.21,3.89,3.62
+TA169,Target,Frozen,Frozen fish fillets,3.82,6.53,5.42,5.39
+WA462,Walmart,Sweets,Tootsie Roll,5.66,8.54,6.67,6.32
+TA515,Target,Grains and Lentils,Organic Wild Rice,7.77,10.38,9.45,9.23
+AL196,Aldi,Frozen,Frozen Organic corn,3.53,4.94,4.25,4.24
+WA378,Walmart,Flour,Tapioca Flour,6.95,9.47,8.04,7.56
+TA281,Target,Health Supplies,Digital blood pressure monitor,8.93,9.79,8.72,8.54
+WA127,Walmart,Canned Goods,Organic Canned Peas,5.05,5.57,5.39,5.15
+TA278,Target,Health Supplies,Antibacterial ointment,8.96,10.26,8.67,8.55
+AL171,Aldi,Frozen,Frozen breakfast items,0.88,2.29,1.7,1.67
+WA356,Walmart,Baby Care,Baby swaddle blankets,4.4,6.65,5.91,5.7
+AL232,Aldi,Oils,Organic Corn Oil,1.27,3.96,2.51,2.48
+WA210,Walmart,Oils,Grapeseed Oil,3.06,5.34,4.12,3.95
+WA141,Walmart,Canned Goods,Organic Canned Refried beans,6.76,9.6,7.5,7.23
+AL083,Aldi,Meat,Crab,3.2,5.56,4.02,3.86
+AL003,Aldi,Dairy,Yogurt,0.96,2.14,1.54,1.5
+TA189,Target,Frozen,Frozen Organic fish fillets,4.5,6.09,4.92,4.84
+AL253,Aldi,Spices,Ginger,1.2,3.82,2.66,2.64
+TA231,Target,Oils,Organic Avocado Oil,8.99,11.68,9.75,9.57
+TA050,Target,Produce,Blueberry,5.28,7.8,6.69,6.52
+TA465,Target,Sweets,Smarties,2.29,4.94,3.5,3.48
+TA324,Target,Bath,Foot Scrub,2.01,4.18,3.15,3.12
+WA011,Walmart,Dairy,Evaporated Milk,1.9,2.5,2.28,2.13
+AL355,Aldi,Baby Care,Baby blankets,6.73,8.44,8.09,7.72
+WA283,Walmart,Health Supplies,Scissors,3.33,4.36,3.62,3.62
+WA292,Walmart,Health Supplies,Nasal saline spray,5.42,7.56,6.99,6.45
+TA082,Target,Meat,Venison,1.13,2.13,1.5,1.47
+TA027,Target,Dairy,Organic Cream Cheese,2.9,4.7,3.99,3.93
+WA130,Walmart,Canned Goods,Organic Canned Soup (various types),6.1,7.3,6.21,6.03
+WA324,Walmart,Bath,Foot Scrub,6.44,9.24,7.64,7.38
+AL228,Aldi,Oils,Organic Canola Oil,1.47,3.94,2.45,2.34
+TA283,Target,Health Supplies,Scissors,8.76,11.63,10.53,10.24
+TA094,Target,Condiments,Tartar Sauce,4.3,6.81,5.27,5.25
+AL358,Aldi,Baby Care,Baby bath tub,3.97,5.97,4.68,4.59
+TA036,Target,Produce,Tomato,2.92,4.26,3.27,3.18
+TA199,Target,Frozen,Frozen Organic berries,2.24,3.0,2.7,2.67
+AL233,Aldi,Oils,Organic Walnut Oil,5.81,6.41,6.54,6.33
+WA159,Walmart,Beverages,Apple Juice,0.81,2.59,1.68,1.67
+AL508,Aldi,Grains and Lentils,Organic Lentils,6.02,6.92,6.22,6.03
+WA517,Walmart,Grains and Lentils,Organic Buckwheat,5.3,7.76,6.72,6.72
+AL176,Aldi,Frozen,Frozen corn,3.53,6.39,5.22,5.14
+WA196,Walmart,Frozen,Frozen Organic corn,4.18,6.84,6.04,5.74
+AL254,Aldi,Spices,Mustard seeds,7.0,8.24,7.74,7.57
+TA035,Target,Produce,Strawberry,6.28,8.37,7.81,7.64
+WA411,Walmart,Office Supplies,Crayon paper,3.57,4.79,4.41,4.35
+WA097,Walmart,Condiments,Salsa,4.48,5.19,5.0,4.96
+AL388,Aldi,Office Supplies,Index cards,6.19,8.52,7.93,7.87
+TA085,Target,Condiments,Mustard,2.76,3.63,3.46,3.42
+WA157,Walmart,Beverages,Coca-Cola,5.97,8.82,6.68,6.26
+WA420,Walmart,Office Supplies,Push Pins,5.11,7.77,6.63,6.13
+AL252,Aldi,Spices,Chili powder,5.76,8.44,6.73,6.59
+WA478,Walmart,Sweets,Airheads,3.76,5.45,4.85,4.81
+TA333,Target,Baby Care,Baby wipes,7.2,9.7,8.24,8.2
+TA185,Target,Frozen,Frozen Organic fruit,2.49,4.25,3.6,3.52
+TA505,Target,Grains and Lentils,Split Peas,4.19,6.69,5.47,5.35
+WA448,Walmart,Office Supplies,Mouse Pad,5.94,8.5,6.87,6.78
+TA155,Target,Beverages,Wine,1.89,3.8,2.69,2.68
+WA179,Walmart,Frozen,Frozen berries,4.04,6.47,5.23,5.01
+WA391,Walmart,Office Supplies,Post-it pads,2.61,4.98,3.79,3.63
+AL305,Aldi,Bath,Body Wash,4.2,6.43,5.74,5.69
+TA180,Target,Frozen,Frozen dumplings,0.87,3.74,2.38,2.36
+AL347,Aldi,Baby Care,Bottle warmer,6.73,9.39,8.63,8.49
+TA268,Target,Spices,Tarragon,1.56,3.31,2.48,2.41
+AL346,Aldi,Baby Care,Baby bottles,0.76,2.0,1.28,1.25
+AL515,Aldi,Grains and Lentils,Organic Wild Rice,7.11,9.02,7.68,7.44
+TA440,Target,Office Supplies,Desk Lamp,2.68,3.69,3.1,3.08
+AL150,Aldi,Beverages,Lemonade,6.91,9.53,8.05,7.72
+AL211,Aldi,Oils,Avocado Oil,4.5,7.18,5.54,5.46
+AL314,Aldi,Bath,Hand Towel,4.55,5.13,5.02,4.9
+TA195,Target,Frozen,Frozen Organic peas,6.26,8.18,6.67,6.48
+WA295,Walmart,Health Supplies,First aid tape,3.27,5.48,4.76,4.73
+TA071,Target,Meat,Beef,5.79,8.28,7.7,7.56
+TA445,Target,Office Supplies,Legal Pads,3.34,5.56,4.48,4.4
+WA089,Walmart,Condiments,Barbecue Sauce,6.32,8.66,7.89,7.71
+WA042,Walmart,Produce,Onion,6.78,9.05,8.46,8.2
+WA132,Walmart,Canned Goods,Organic Canned Pumpkin,6.66,9.31,7.9,7.64
+TA118,Target,Canned Goods,Canned Black olives,7.02,9.44,8.09,7.91
+TA109,Target,Canned Goods,Canned Chicken broth,7.52,8.64,8.58,8.38
+TA227,Target,Oils,Organic Sesame Oil,7.49,9.63,9.12,8.94
+AL407,Aldi,Office Supplies,Origami paper,7.45,9.24,7.69,7.37
+TA307,Target,Bath,Bath Bombs,1.55,2.94,2.29,2.28
+WA165,Walmart,Frozen,Frozen fruit,6.21,7.11,6.59,6.28
+WA291,Walmart,Health Supplies,Allergy medication,2.91,4.32,3.95,3.72
+AL439,Aldi,Office Supplies,Sharpener,6.03,8.81,6.94,6.85
+TA433,Target,Office Supplies,Calculator,1.82,4.18,3.11,3.05
+WA349,Walmart,Baby Care,Breast pump,5.32,6.74,6.42,6.07
+TA046,Target,Produce,Avocado,8.57,9.92,8.88,8.64
+AL182,Aldi,Frozen,Frozen pasta,1.67,3.24,2.29,2.24
+AL432,Aldi,Office Supplies,Sketchbook,7.59,10.42,9.09,8.83
+TA292,Target,Health Supplies,Nasal saline spray,2.01,4.4,3.24,3.22
+TA396,Target,Office Supplies,Paper bags,4.11,6.63,5.33,5.24
+TA516,Target,Grains and Lentils,Organic Barley,1.7,3.62,2.6,2.59
+AL086,Aldi,Condiments,Mayonnaise,1.24,3.37,2.51,2.47
+WA459,Walmart,Sweets,Butterfinger,4.38,6.04,5.25,5.21
+WA376,Walmart,Flour,Barley Flour,6.26,7.48,6.64,6.38
+WA334,Walmart,Baby Care,Baby lotion,2.69,3.41,2.91,2.72
+TA314,Target,Bath,Hand Towel,5.43,7.13,6.23,6.2
+AL460,Aldi,Sweets,3 Musketeers,3.26,5.77,4.16,3.98
+AL100,Aldi,Condiments,Horseradish,7.87,10.6,9.79,9.52
+TA256,Target,Spices,Bay leaves,3.98,6.5,5.42,5.41
+TA417,Target,Office Supplies,Stapler,4.61,5.89,4.78,4.66
+AL409,Aldi,Office Supplies,Paper clips,2.06,3.31,2.6,2.5
+TA211,Target,Oils,Avocado Oil,8.4,9.8,9.16,8.98
+WA329,Walmart,Bath,Bath Gloves,3.48,4.84,4.46,4.27
+TA153,Target,Beverages,Smoothie,4.49,5.98,5.6,5.48
+WA319,Walmart,Bath,Bath Caddy,1.34,3.19,2.34,2.2
+AL162,Aldi,Beverages,Green Tea,6.68,7.31,7.59,7.39
+AL105,Aldi,Canned Goods,Canned Beans,4.37,5.75,5.15,4.96
+WA168,Walmart,Frozen,Frozen shrimp,1.76,4.03,2.92,2.73
+WA013,Walmart,Dairy,Mozzarella Cheese,3.75,4.38,4.13,3.93
+WA172,Walmart,Frozen,Frozen French fries,4.84,5.63,5.59,5.33
+WA261,Walmart,Spices,Parsley,4.17,4.98,5.02,4.65
+TA512,Target,Grains and Lentils,Organic Quinoa,8.47,11.06,9.38,9.25
+AL218,Aldi,Oils,Macadamia Nut Oil,0.61,3.34,1.92,1.88
+AL004,Aldi,Dairy,Butter,2.52,3.46,3.03,2.89
+WA139,Walmart,Canned Goods,Organic Canned Coconut milk,3.48,5.34,3.97,3.94
+TA024,Target,Dairy,Organic Whipped Cream,3.64,5.76,4.9,4.87
+TA419,Target,Office Supplies,Binder,8.32,9.75,8.9,8.81
+TA418,Target,Office Supplies,Staples,1.74,2.79,2.37,2.32
+AL247,Aldi,Spices,Coriander,3.19,4.94,4.29,4.28
+TA033,Target,Produce,Orange,4.08,5.21,4.83,4.83
+WA140,Walmart,Canned Goods,Organic Canned Sardines,3.44,4.2,3.54,3.45
+AL325,Aldi,Bath,Bath Mat,4.99,6.16,5.24,5.13
+AL141,Aldi,Canned Goods,Organic Canned Refried beans,3.1,5.42,4.5,4.39
+WA225,Walmart,Oils,Organic Coconut Oil,4.69,7.39,6.38,6.24
+AL476,Aldi,Sweets,Cadbury Dairy Milk,7.41,8.2,8.48,8.36
+WA410,Walmart,Office Supplies,File folders,6.25,8.47,6.76,6.4
+WA326,Walmart,Bath,Shower Curtain,2.51,4.91,3.88,3.66
+WA300,Walmart,Health Supplies,Prescription medications,3.95,5.78,5.0,4.7
+TA460,Target,Sweets,3 Musketeers,5.31,7.63,6.38,6.23
+AL489,Aldi,Grains and Lentils,Lentils,3.42,4.44,3.69,3.69
+TA480,Target,Sweets,Jawbreakers,0.73,1.39,0.98,0.98
+AL410,Aldi,Office Supplies,File folders,7.2,9.36,8.56,8.3
+WA194,Walmart,Frozen,Frozen Organic yogurt,5.19,6.88,6.21,6.09
+AL158,Aldi,Beverages,Sprite,7.09,9.02,7.7,7.7
+TA048,Target,Produce,Watermelon,7.94,10.54,9.9,9.73
+WA504,Walmart,Grains and Lentils,Bulgur,2.11,3.63,2.87,2.77
+TA080,Target,Meat,Sausage,2.88,4.85,3.54,3.46
+TA319,Target,Bath,Bath Caddy,8.3,9.46,9.57,9.35
+AL356,Aldi,Baby Care,Baby swaddle blankets,4.06,6.52,5.38,5.23
+WA004,Walmart,Dairy,Butter,2.41,4.16,2.98,2.75
+AL237,Aldi,Oils,Organic Hazelnut Oil,3.37,4.82,4.08,3.95
+WA468,Walmart,Sweets,Gummy Bears,0.51,3.02,1.91,1.82
+WA322,Walmart,Bath,Candles,6.4,8.63,7.72,7.15
+WA006,Walmart,Dairy,Sour Cream,1.55,4.17,3.08,2.88
+WA223,Walmart,Oils,Jojoba Oil,4.07,5.97,4.81,4.59
+TA022,Target,Dairy,Organic Cottage Cheese,4.59,6.52,5.33,5.25
+TA304,Target,Bath,Conditioner,1.85,3.81,3.09,3.05
+WA040,Walmart,Produce,Broccoli,3.72,4.55,4.32,4.14
+TA017,Target,Dairy,Organic Cheese,8.7,10.71,9.9,9.77
+WA243,Walmart,Oils,Organic Jojoba Oil,2.48,5.05,3.88,3.67
+WA137,Walmart,Canned Goods,Organic Canned Mushrooms,2.47,5.09,3.95,3.74
+AL351,Aldi,Baby Care,Baby bibs,2.59,3.89,3.53,3.49
+AL335,Aldi,Baby Care,Baby shampoo,3.8,4.84,4.26,4.06
+TA497,Target,Grains and Lentils,Barley,8.32,8.98,7.83,7.62
+TA219,Target,Oils,Palm Oil,6.96,8.48,7.88,7.87
+AL069,Aldi,Produce,Organic Kiwi,3.19,5.38,4.3,4.12
+AL154,Aldi,Beverages,Beer,5.95,7.09,6.16,6.05
+AL385,Aldi,Office Supplies,Toilet paper,7.74,8.66,9.0,9.0
+TA056,Target,Produce,Organic Tomato,3.2,6.04,4.49,4.45
+AL500,Aldi,Grains and Lentils,Farro,2.55,3.63,3.16,3.01
+TA136,Target,Canned Goods,Organic Canned Green beans,5.45,7.32,5.8,5.71
+TA348,Target,Baby Care,Baby formula,6.44,8.6,6.9,6.84
+AL525,Aldi,Grains and Lentils,Organic Black-eyed Peas,7.25,8.13,7.04,6.97
+WA377,Walmart,Flour,Rye Flour,4.13,5.69,5.08,4.88
+WA315,Walmart,Bath,Face Towel,6.82,9.61,8.38,8.32
+WA443,Walmart,Office Supplies,Manila Folders,1.39,3.74,2.81,2.7
+WA320,Walmart,Bath,Bath Tray,2.4,4.49,3.74,3.58
+AL063,Aldi,Produce,Organic Bell Pepper,5.61,8.25,6.28,6.2
+AL275,Aldi,Health Supplies,Adhesive tape,6.72,9.53,8.85,8.43
+AL139,Aldi,Canned Goods,Organic Canned Coconut milk,6.04,7.03,5.89,5.7
+WA425,Walmart,Office Supplies,Post-it Notes,3.46,5.44,4.86,4.74
+TA028,Target,Dairy,Organic Mozzarella Cheese,7.01,9.43,8.39,8.26
+TA069,Target,Produce,Organic Kiwi,3.41,5.84,5.03,4.96
+AL094,Aldi,Condiments,Tartar Sauce,4.8,7.02,5.53,5.27
+TA190,Target,Frozen,Frozen Organic hamburger patties,6.08,8.48,7.33,7.11
+TA367,Target,Flour,Self-Rising Flour,4.27,6.08,5.35,5.25
+AL230,Aldi,Oils,Organic Grapeseed Oil,6.44,9.08,7.21,6.96
+TA364,Target,Flour,Bread Flour,6.89,9.05,8.37,8.3
+WA228,Walmart,Oils,Organic Canola Oil,6.1,6.77,6.38,6.07
+TA260,Target,Spices,Basil,6.53,8.34,7.68,7.55
+TA376,Target,Flour,Barley Flour,7.8,10.75,9.46,9.2
+TA524,Target,Grains and Lentils,Organic Split Peas,5.01,5.57,5.8,5.66
+TA282,Target,Health Supplies,Tweezers,7.41,9.48,7.92,7.8
+WA067,Walmart,Produce,Organic Pineapple,1.26,3.4,2.45,2.44
+WA394,Walmart,Office Supplies,Paper plates,0.64,3.29,1.94,1.87
+TA054,Target,Produce,Organic Grapes,3.98,4.88,4.69,4.57
+WA025,Walmart,Dairy,Organic Condensed Milk,2.24,4.62,3.76,3.61
+WA212,Walmart,Oils,Corn Oil,3.94,5.99,4.54,4.2
+AL168,Aldi,Frozen,Frozen shrimp,6.8,8.32,7.14,7.09
+AL022,Aldi,Dairy,Organic Cottage Cheese,6.72,9.32,8.65,8.47
+TA011,Target,Dairy,Evaporated Milk,0.8,2.11,1.33,1.32
+AL112,Aldi,Canned Goods,Canned Pumpkin,3.68,4.78,4.51,4.37
+TA202,Target,Frozen,Frozen Organic pasta,8.19,8.75,8.43,8.25
+WA086,Walmart,Condiments,Mayonnaise,4.34,5.49,5.25,5.08
+AL369,Aldi,Flour,Coconut Flour,2.16,4.86,3.23,3.13
+WA273,Walmart,Health Supplies,Band-Aids,1.73,4.46,3.14,3.12
+AL036,Aldi,Produce,Tomato,7.82,8.93,7.85,7.54
+AL049,Aldi,Produce,Kiwi,4.05,6.29,5.13,5.03
+AL370,Aldi,Flour,Rice Flour,4.52,6.27,5.55,5.35
+TA105,Target,Canned Goods,Canned Beans,5.73,8.46,6.72,6.61
+AL491,Aldi,Grains and Lentils,Black Beans,1.09,2.59,1.67,1.64
+AL419,Aldi,Office Supplies,Binder,6.59,9.49,7.97,7.7
+WA506,Walmart,Grains and Lentils,Black-eyed Peas,6.51,7.43,6.42,6.1
+WA274,Walmart,Health Supplies,Antiseptic wipes,4.99,5.8,4.93,4.72
+TA277,Target,Health Supplies,"Pain relievers (e.g., acetaminophen, ibuprofen)",2.03,3.97,3.15,3.12
+WA363,Walmart,Flour,Whole Wheat Flour,3.95,5.93,4.89,4.56
+TA097,Target,Condiments,Salsa,6.02,8.26,6.92,6.88
+WA003,Walmart,Dairy,Yogurt,3.82,5.43,4.22,3.93
+WA007,Walmart,Dairy,Cottage Cheese,4.33,5.23,4.94,4.58
+WA312,Walmart,Bath,Bath Brush,3.59,4.9,4.27,3.94
+AL016,Aldi,Dairy,Organic Milk,4.68,7.34,5.44,5.23
+AL266,Aldi,Spices,Onion powder,7.5,8.38,7.35,7.24
+TA140,Target,Canned Goods,Organic Canned Sardines,5.44,8.17,6.71,6.6
+WA365,Walmart,Flour,Cake Flour,1.79,4.13,2.88,2.76
+AL503,Aldi,Grains and Lentils,Amaranth,2.87,5.68,4.01,3.95
+WA216,Walmart,Oils,Almond Oil,1.92,3.14,2.41,2.26
+AL070,Aldi,Produce,Organic Blueberry,4.37,7.27,5.62,5.36
+WA028,Walmart,Dairy,Organic Mozzarella Cheese,2.69,5.53,4.35,4.32
+AL082,Aldi,Meat,Venison,5.91,7.44,6.93,6.81
+TA441,Target,Office Supplies,Graph Paper,6.92,8.38,8.37,8.23
+AL391,Aldi,Office Supplies,Post-it pads,5.27,7.41,6.46,6.33
+TA220,Target,Oils,Pumpkin Seed Oil,5.12,7.42,6.67,6.53
+TA113,Target,Canned Goods,Canned Salmon,1.6,3.71,2.44,2.4
+AL480,Aldi,Sweets,Jawbreakers,3.02,4.01,3.61,3.55
+TA193,Target,Frozen,Frozen Organic ice cream,2.72,3.72,3.47,3.41
+TA166,Target,Frozen,Frozen pizza,3.42,5.76,4.65,4.54
+AL170,Aldi,Frozen,Frozen hamburger patties,5.17,6.12,5.2,5.07
+TA099,Target,Condiments,Mustard Seed,6.14,7.62,6.4,6.22
+AL001,Aldi,Dairy,Milk,6.08,7.15,6.38,6.26
+WA257,Walmart,Spices,Thyme,6.34,7.71,7.27,6.71
+WA026,Walmart,Dairy,Organic Evaporated Milk,5.97,7.25,6.54,6.1
+WA337,Walmart,Baby Care,Baby oil,4.49,6.25,5.75,5.64
+TA047,Target,Produce,Pineapple,4.77,7.2,6.24,6.13
+WA048,Walmart,Produce,Watermelon,0.59,3.04,1.76,1.73
+WA107,Walmart,Canned Goods,Canned Peas,5.91,8.52,6.93,6.85
+WA350,Walmart,Baby Care,Nursing pads,4.62,5.98,5.24,5.19
+WA056,Walmart,Produce,Organic Tomato,5.93,7.39,6.79,6.39
+TA374,Target,Flour,Spelt Flour,1.05,2.79,2.05,2.04
+WA214,Walmart,Oils,Safflower Oil,1.46,3.15,2.25,2.11
+WA121,Walmart,Canned Goods,Canned Refried beans,2.89,3.72,3.12,3.08
+AL521,Aldi,Grains and Lentils,Organic Oats,2.81,5.4,3.79,3.71
+TA287,Target,Health Supplies,Alcohol swabs,6.75,9.18,7.85,7.69
+WA073,Walmart,Meat,Pork,2.8,3.9,3.04,2.97
+AL416,Aldi,Office Supplies,Highlighter,2.1,3.87,2.82,2.76
+TA339,Target,Baby Care,Diaper rash cream,5.31,7.76,6.24,6.11
+AL354,Aldi,Baby Care,Baby hats,7.91,8.99,7.78,7.58
+WA046,Walmart,Produce,Avocado,4.07,5.27,4.4,4.38
+AL278,Aldi,Health Supplies,Antibacterial ointment,3.97,5.08,4.6,4.43
+WA524,Walmart,Grains and Lentils,Organic Split Peas,3.4,3.99,3.54,3.37
+TA443,Target,Office Supplies,Manila Folders,4.26,6.58,4.98,4.92
+TA382,Target,Office Supplies,Notebook,5.08,7.88,6.61,6.46
+TA438,Target,Office Supplies,Desk Calendar,4.45,7.14,6.28,6.21
+TA392,Target,Office Supplies,Receipts,1.67,2.76,2.32,2.32
+TA008,Target,Dairy,Ice Cream,2.24,4.04,3.3,3.25
+AL209,Aldi,Oils,Peanut Oil,3.2,4.43,3.78,3.6
+TA078,Target,Meat,Salmon,5.42,6.41,5.74,5.58
+WA466,Walmart,Sweets,Toffee,6.05,8.98,7.42,7.05
+TA381,Target,Flour,Soy Flour,1.25,2.1,1.6,1.57
+AL293,Aldi,Health Supplies,Sunscreen,4.97,5.5,4.89,4.69
+TA336,Target,Baby Care,Baby soap,4.09,5.95,5.51,5.44
+TA508,Target,Grains and Lentils,Organic Lentils,8.49,11.26,10.38,10.38
+WA061,Walmart,Produce,Organic Potato,3.78,4.81,4.57,4.31
+TA461,Target,Sweets,Almond Joy,8.1,9.03,8.97,8.74
+WA093,Walmart,Condiments,Worcestershire Sauce,6.45,8.62,7.98,7.49
+TA141,Target,Canned Goods,Organic Canned Refried beans,1.95,3.4,2.75,2.67
+AL046,Aldi,Produce,Avocado,4.59,7.36,6.16,5.91
+WA195,Walmart,Frozen,Frozen Organic peas,6.95,8.24,6.98,6.52
+WA281,Walmart,Health Supplies,Digital blood pressure monitor,5.59,6.47,5.51,5.18
+TA170,Target,Frozen,Frozen hamburger patties,2.17,4.19,3.34,3.25
+WA360,Walmart,Baby Care,Baby first aid kit,5.78,7.84,7.1,6.66
+WA520,Walmart,Grains and Lentils,Organic Millet,6.27,7.74,6.97,6.45
+TA378,Target,Flour,Tapioca Flour,2.92,5.57,4.03,4.0
+AL061,Aldi,Produce,Organic Potato,4.75,5.73,5.05,5.0
+WA183,Walmart,Frozen,Frozen desserts,1.5,3.43,2.63,2.43
+AL142,Aldi,Canned Goods,Organic Canned Artichoke hearts,3.81,5.67,5.2,5.17
+AL413,Aldi,Office Supplies,Pencil,4.02,6.62,4.89,4.69
+WA111,Walmart,Canned Goods,Canned Chickpeas,1.67,3.17,2.36,2.27
+TA399,Target,Office Supplies,Catalogs,3.05,4.11,3.64,3.57
+WA043,Walmart,Produce,Bell Pepper,4.47,7.44,5.64,5.46
+TA221,Target,Oils,Mustard Oil,7.04,9.29,8.22,8.02
+AL481,Aldi,Sweets,Hersheys Cookies n Creme,1.31,3.67,2.71,2.65
+WA205,Walmart,Oils,Coconut Oil,3.65,5.12,4.19,4.1
+AL248,Aldi,Spices,Cardamom,0.67,1.64,1.21,1.16
+WA053,Walmart,Produce,Organic Orange,4.5,7.16,6.3,5.98
+AL269,Aldi,Spices,Saffron,4.98,7.09,5.93,5.68
+TA020,Target,Dairy,Organic Cream,2.47,4.28,3.14,3.07
+WA069,Walmart,Produce,Organic Kiwi,4.33,6.55,5.29,4.89
+TA472,Target,Sweets,Lindt Lindor,2.25,3.51,3.08,2.99
+AL177,Aldi,Frozen,Frozen spinach,3.64,6.17,5.01,4.78
+AL343,Aldi,Baby Care,Baby nail clippers,2.03,4.59,3.1,3.04
+TA309,Target,Bath,Bar Soap,1.48,2.33,1.94,1.93
+WA184,Walmart,Frozen,Frozen Organic vegetables,5.8,6.49,6.38,6.14
+WA138,Walmart,Canned Goods,Organic Canned Black olives,1.19,3.99,2.73,2.55
+TA271,Target,Spices,Caraway seeds,7.46,8.12,7.9,7.71
+WA133,Walmart,Canned Goods,Organic Canned Salmon,4.81,6.2,5.67,5.64
+WA081,Walmart,Meat,Ham,6.17,9.14,7.81,7.19
+AL225,Aldi,Oils,Organic Coconut Oil,1.5,2.83,2.11,2.04
+WA106,Walmart,Canned Goods,Canned Corn,2.32,2.99,2.53,2.39
+AL172,Aldi,Frozen,Frozen French fries,7.2,8.11,7.49,7.45
+TA016,Target,Dairy,Organic Milk,6.99,7.56,7.24,7.11
+TA291,Target,Health Supplies,Allergy medication,6.91,9.25,7.36,7.25
+WA481,Walmart,Sweets,Hersheys Cookies n Creme,0.79,1.93,1.37,1.29
+WA166,Walmart,Frozen,Frozen pizza,5.38,6.2,5.92,5.65
+WA249,Walmart,Spices,Cloves,0.87,3.53,2.17,2.15
+WA308,Walmart,Bath,Bath Salts,1.72,3.56,2.88,2.83
+WA447,Walmart,Office Supplies,USB Flash Drive,1.53,3.25,2.4,2.4
+AL377,Aldi,Flour,Rye Flour,6.83,8.89,7.42,7.16
+WA335,Walmart,Baby Care,Baby shampoo,4.24,6.29,5.11,4.99
+TA385,Target,Office Supplies,Toilet paper,1.34,1.95,1.55,1.53
+WA098,Walmart,Condiments,Hummus,3.6,4.28,3.55,3.48
+TA317,Target,Bath,Shower Cap,3.27,3.91,3.23,3.19
+AL504,Aldi,Grains and Lentils,Bulgur,4.13,5.23,4.95,4.8
+TA212,Target,Oils,Corn Oil,7.41,8.85,8.9,8.9
+AL029,Aldi,Dairy,Organic Cheddar Cheese,7.19,9.44,7.79,7.59
+AL138,Aldi,Canned Goods,Organic Canned Black olives,4.5,5.17,5.25,5.15
+WA422,Walmart,Office Supplies,Glue Stick,4.7,7.28,5.83,5.72
+WA103,Walmart,Condiments,Miso Paste,4.52,7.07,5.43,5.3
+WA435,Walmart,Office Supplies,Whiteboard,3.5,5.25,4.15,4.0
+WA075,Walmart,Meat,Lamb,3.03,5.36,3.79,3.57
+AL451,Aldi,Sweets,Reeses Peanut Butter Cups,6.54,7.31,6.55,6.53
+TA451,Target,Sweets,Reeses Peanut Butter Cups,6.72,8.37,7.89,7.81
+AL379,Aldi,Flour,Cornmeal,3.9,6.71,5.64,5.49
+WA303,Walmart,Bath,Shampoo,3.75,4.35,4.42,4.3
+AL309,Aldi,Bath,Bar Soap,2.49,3.57,3.3,3.22
+AL277,Aldi,Health Supplies,"Pain relievers (e.g., acetaminophen, ibuprofen)",0.8,1.47,1.06,1.04
+AL236,Aldi,Oils,Organic Almond Oil,7.14,9.64,8.08,7.74
+TA299,Target,Health Supplies,Elastic bandages,3.58,4.54,4.17,4.12
+TA237,Target,Oils,Organic Hazelnut Oil,1.64,2.33,1.86,1.83
+TA208,Target,Oils,Canola Oil,2.15,4.52,3.45,3.43
+WA389,Walmart,Office Supplies,Construction paper,3.29,6.1,4.47,4.24
+WA236,Walmart,Oils,Organic Almond Oil,3.01,3.7,3.22,3.22
+AL259,Aldi,Spices,Oregano,1.44,4.1,2.65,2.54
+WA268,Walmart,Spices,Tarragon,5.07,7.74,6.15,5.97
+WA306,Walmart,Bath,Bubble Bath,2.28,3.85,3.13,3.09
+TA349,Target,Baby Care,Breast pump,8.17,9.53,8.94,8.77
+WA118,Walmart,Canned Goods,Canned Black olives,1.94,4.91,3.23,3.04
+AL435,Aldi,Office Supplies,Whiteboard,1.56,2.74,2.11,2.07
+TA148,Target,Beverages,Orange Juice,7.75,9.94,8.43,8.24
+WA250,Walmart,Spices,Nutmeg,0.79,1.53,1.04,1.0
+AL095,Aldi,Condiments,Pesto,0.57,3.16,1.69,1.63
+AL522,Aldi,Grains and Lentils,Organic Amaranth,1.92,3.32,2.59,2.46
+WA072,Walmart,Meat,Chicken,1.2,2.63,1.77,1.64
+WA095,Walmart,Condiments,Pesto,6.61,7.51,7.59,7.11
+TA510,Target,Grains and Lentils,Organic Black Beans,2.0,3.39,2.94,2.9
+WA034,Walmart,Produce,Grapes,3.41,4.86,4.23,4.06
+TA274,Target,Health Supplies,Antiseptic wipes,8.32,10.05,9.09,8.88
+AL262,Aldi,Spices,Dill,7.28,8.8,7.8,7.74
+WA449,Walmart,Sweets,M&Ms,1.19,2.82,2.01,1.88
+WA446,Walmart,Office Supplies,Ink Cartridges,1.38,2.86,1.93,1.89
+TA246,Target,Spices,Cumin,3.88,6.48,5.67,5.54
+TA191,Target,Frozen,Frozen Organic breakfast items,2.71,4.76,3.74,3.64
+TA462,Target,Sweets,Tootsie Roll,1.81,2.49,2.33,2.28
+AL151,Aldi,Beverages,Iced Tea,5.63,8.2,6.94,6.71
+TA479,Target,Sweets,Pop Rocks,6.03,7.44,7.07,6.93
+AL033,Aldi,Produce,Orange,2.88,4.83,4.11,4.02
+WA078,Walmart,Meat,Salmon,4.03,7.02,5.69,5.54
+WA085,Walmart,Condiments,Mustard,6.3,8.44,8.09,7.62
+TA405,Target,Office Supplies,Graph paper,4.2,6.86,5.19,5.15
+WA083,Walmart,Meat,Crab,6.81,9.05,7.26,6.75
+WA458,Walmart,Sweets,Nestle Crunch,5.45,7.33,6.32,5.9
+TA498,Target,Grains and Lentils,Buckwheat,5.68,8.66,6.71,6.69
+TA151,Target,Beverages,Iced Tea,3.75,5.76,4.72,4.67
+AL506,Aldi,Grains and Lentils,Black-eyed Peas,6.32,8.94,8.05,7.97
+AL077,Aldi,Meat,Shrimp,2.18,3.32,2.49,2.41
+WA437,Walmart,Office Supplies,Desk Organizer,6.14,8.44,7.03,6.71
+TA245,Target,Spices,Turmeric,6.65,7.55,6.46,6.35
+TA344,Target,Baby Care,Baby brush and comb set,1.93,4.49,3.0,2.94
+TA119,Target,Canned Goods,Canned Coconut milk,2.61,4.15,3.59,3.57
+TA337,Target,Baby Care,Baby oil,5.04,7.96,6.9,6.79
+TA390,Target,Office Supplies,Envelopes,1.66,3.92,2.81,2.76
+TA485,Target,Sweets,Junior Mints,2.8,3.97,3.45,3.39
+AL204,Aldi,Oils,Olive Oil,7.56,10.45,8.46,8.11
+AL126,Aldi,Canned Goods,Organic Canned Corn,2.78,3.33,2.91,2.78
+WA405,Walmart,Office Supplies,Graph paper,2.46,4.11,3.49,3.36
+AL319,Aldi,Bath,Bath Caddy,1.33,2.88,2.16,2.06
+TA504,Target,Grains and Lentils,Bulgur,4.51,6.92,5.32,5.29
+AL350,Aldi,Baby Care,Nursing pads,2.32,4.19,3.22,3.11
+WA105,Walmart,Canned Goods,Canned Beans,4.23,6.33,4.92,4.67
+TA084,Target,Condiments,Ketchup,4.23,6.62,4.95,4.85
+TA401,Target,Office Supplies,Brown paper,2.6,5.2,3.99,3.97
+TA163,Target,Beverages,Lime Soda,3.03,4.98,3.93,3.82
+TA509,Target,Grains and Lentils,Organic Chickpeas,3.57,4.09,3.74,3.72
+TA301,Target,Health Supplies,Multivitamins,1.04,3.82,2.58,2.55
+AL152,Aldi,Beverages,Hot Chocolate Mix,1.01,1.68,1.44,1.42
+AL387,Aldi,Office Supplies,Sticky notes,4.66,6.75,5.95,5.71
+WA063,Walmart,Produce,Organic Bell Pepper,1.54,3.5,2.46,2.36
+WA282,Walmart,Health Supplies,Tweezers,3.01,4.71,3.91,3.64
+TA327,Target,Bath,Body Lotion,8.42,11.23,9.1,9.03
+TA253,Target,Spices,Ginger,8.45,9.02,8.58,8.46
+AL014,Aldi,Dairy,Cheddar Cheese,5.68,8.02,7.13,6.81
+WA239,Walmart,Oils,Organic Palm Oil,6.98,9.66,8.18,7.76
+WA224,Walmart,Oils,Organic Olive Oil,1.26,1.81,1.47,1.44
+WA146,Walmart,Beverages,Instant Coffee,3.53,6.11,4.73,4.44
+AL418,Aldi,Office Supplies,Staples,4.75,6.54,5.18,5.11
+WA374,Walmart,Flour,Spelt Flour,1.2,3.04,2.02,1.98
+AL241,Aldi,Oils,Organic Mustard Oil,7.85,10.26,9.66,9.48
+WA119,Walmart,Canned Goods,Canned Coconut milk,1.36,1.97,1.83,1.7
+AL134,Aldi,Canned Goods,Organic Canned Peaches,4.79,7.43,5.72,5.61
+AL131,Aldi,Canned Goods,Organic Canned Chickpeas,7.54,8.96,8.52,8.16
+WA251,Walmart,Spices,Paprika,3.34,3.89,3.44,3.19
+AL467,Aldi,Sweets,Caramel,4.19,5.33,4.83,4.61
+AL221,Aldi,Oils,Mustard Oil,4.2,7.03,5.5,5.42
+TA469,Target,Sweets,Swedish Fish,0.69,2.05,1.34,1.31
+WA010,Walmart,Dairy,Condensed Milk,2.1,3.01,2.52,2.36
+WA450,Walmart,Sweets,Kit Kat,1.24,2.55,1.99,1.93
+TA458,Target,Sweets,Nestle Crunch,5.02,5.71,4.93,4.9
+TA183,Target,Frozen,Frozen desserts,8.49,9.54,8.33,8.18
+WA256,Walmart,Spices,Bay leaves,5.61,7.65,6.65,6.4
+TA357,Target,Baby Care,Baby towels,7.11,8.8,8.33,8.13
+TA068,Target,Produce,Organic Watermelon,3.82,6.56,5.59,5.5
+WA390,Walmart,Office Supplies,Envelopes,4.83,5.78,5.6,5.23
+AL191,Aldi,Frozen,Frozen Organic breakfast items,0.84,1.53,1.16,1.16
+AL374,Aldi,Flour,Spelt Flour,1.02,2.14,1.63,1.61
+TA032,Target,Produce,Banana,2.24,5.14,3.52,3.47
+TA383,Target,Office Supplies,Printer paper,3.42,3.94,3.53,3.49
+AL352,Aldi,Baby Care,Baby clothes,4.43,5.84,4.65,4.57
+TA412,Target,Office Supplies,Pen,8.98,9.54,9.03,8.85
+WA461,Walmart,Sweets,Almond Joy,2.25,3.07,2.91,2.8
+TA198,Target,Frozen,Frozen Organic broccoli,0.68,3.41,1.95,1.9
+TA468,Target,Sweets,Gummy Bears,6.28,6.98,5.97,5.95
+AL401,Aldi,Office Supplies,Brown paper,2.03,4.13,3.17,3.08
+WA145,Walmart,Beverages,Coffee Beans,3.07,4.32,3.82,3.64
+WA502,Walmart,Grains and Lentils,Oats,4.19,5.0,4.4,4.28
+TA397,Target,Office Supplies,Newspaper,1.69,4.01,2.64,2.6
+AL415,Aldi,Office Supplies,Ruler,7.33,8.07,7.34,7.29
+TA214,Target,Oils,Safflower Oil,3.82,5.89,5.19,5.19
+AL404,Aldi,Office Supplies,Legal pads,3.39,4.2,3.49,3.43
+TA343,Target,Baby Care,Baby nail clippers,5.81,8.77,7.69,7.53
+TA206,Target,Oils,Sunflower Oil,4.03,5.24,4.46,4.38
+TA014,Target,Dairy,Cheddar Cheese,4.71,6.34,5.74,5.6
+WA178,Walmart,Frozen,Frozen broccoli,1.98,4.71,3.32,3.28
+AL469,Aldi,Sweets,Swedish Fish,1.99,4.35,3.11,3.06
+TA172,Target,Frozen,Frozen French fries,8.96,10.91,10.86,10.73
+AL414,Aldi,Office Supplies,Eraser,5.84,6.46,6.72,6.69
+AL047,Aldi,Produce,Pineapple,3.94,5.41,5.06,4.81
+AL487,Aldi,Sweets,Hersheys Special Dark,7.56,10.19,9.04,8.96
+TA476,Target,Sweets,Cadbury Dairy Milk,4.68,6.67,5.57,5.41
+AL519,Aldi,Grains and Lentils,Organic Farro,5.87,8.23,7.12,6.93
+WA008,Walmart,Dairy,Ice Cream,1.05,4.03,2.39,2.31
+TA437,Target,Office Supplies,Desk Organizer,8.14,11.1,9.09,8.94
+TA142,Target,Canned Goods,Organic Canned Artichoke hearts,4.52,7.27,5.66,5.55
+AL169,Aldi,Frozen,Frozen fish fillets,2.05,3.17,2.37,2.31
+WA358,Walmart,Baby Care,Baby bath tub,5.93,7.78,6.75,6.53
+TA258,Target,Spices,Rosemary,4.07,6.92,5.41,5.26
+TA210,Target,Oils,Grapeseed Oil,7.89,9.36,8.4,8.34
+WA330,Walmart,Bath,Bath Pillow,4.85,5.45,5.02,4.95
+AL327,Aldi,Bath,Body Lotion,7.17,8.1,8.24,8.18
+TA427,Target,Office Supplies,Rubber Bands,1.39,3.04,2.27,2.24
+AL157,Aldi,Beverages,Coca-Cola,4.25,5.34,5.01,4.81
+AL124,Aldi,Canned Goods,Organic Canned Tomatoes,5.84,7.56,6.15,6.01
+WA259,Walmart,Spices,Oregano,4.68,6.66,5.61,5.58
+AL505,Aldi,Grains and Lentils,Split Peas,0.61,3.18,1.87,1.83
+AL185,Aldi,Frozen,Frozen Organic fruit,4.16,6.56,5.48,5.26
+WA373,Walmart,Flour,Oat Flour,6.49,8.15,6.98,6.77
+AL108,Aldi,Canned Goods,Canned Tuna,4.57,6.45,5.81,5.72
+WA415,Walmart,Office Supplies,Ruler,2.62,4.72,3.96,3.96
+WA143,Walmart,Canned Goods,Organic Canned Spaghetti sauce,3.79,6.0,4.63,4.52
+WA526,Walmart,Grains and Lentils,Organic Green Lentils,3.21,5.52,4.38,4.05
+AL145,Aldi,Beverages,Coffee Beans,4.26,6.9,5.82,5.63
+WA233,Walmart,Oils,Organic Walnut Oil,6.68,7.29,7.07,7.02
+AL128,Aldi,Canned Goods,Organic Canned Tuna,7.25,9.42,7.69,7.68
+AL444,Aldi,Office Supplies,Binder Clips,1.0,2.28,1.55,1.52
+WA441,Walmart,Office Supplies,Graph Paper,2.91,4.39,3.43,3.39
+TA006,Target,Dairy,Sour Cream,6.76,8.22,6.82,6.75
+AL214,Aldi,Oils,Safflower Oil,0.95,3.66,2.24,2.14
+WA227,Walmart,Oils,Organic Sesame Oil,3.0,5.41,4.6,4.59
+AL034,Aldi,Produce,Grapes,2.9,3.5,2.96,2.85
+WA229,Walmart,Oils,Organic Peanut Oil,6.77,7.53,7.29,7.19
+AL295,Aldi,Health Supplies,First aid tape,2.03,2.64,2.27,2.27
+AL313,Aldi,Bath,Bath Towel,1.78,2.56,2.29,2.29
+WA213,Walmart,Oils,Walnut Oil,3.76,6.44,4.7,4.66
+TA360,Target,Baby Care,Baby first aid kit,8.07,8.7,9.21,9.09
+WA080,Walmart,Meat,Sausage,4.42,6.11,5.47,5.04
+WA149,Walmart,Beverages,Cola,1.62,3.44,2.65,2.55
+TA289,Target,Health Supplies,Cough drops,4.36,6.41,5.25,5.22
+AL028,Aldi,Dairy,Organic Mozzarella Cheese,5.77,7.67,6.72,6.53
+AL405,Aldi,Office Supplies,Graph paper,4.3,5.85,5.19,4.96
+TA146,Target,Beverages,Instant Coffee,6.93,9.37,7.42,7.4
+AL212,Aldi,Oils,Corn Oil,7.24,9.51,7.98,7.68
+TA030,Target,Dairy,Organic Parmesan Cheese,6.5,9.41,7.29,7.28
+AL412,Aldi,Office Supplies,Pen,6.74,7.68,7.93,7.71
+WA134,Walmart,Canned Goods,Organic Canned Peaches,4.16,5.03,4.9,4.86
+AL114,Aldi,Canned Goods,Canned Peaches,5.83,8.82,7.51,7.48
+TA408,Target,Office Supplies,Cardstock,6.0,6.58,5.98,5.94
+AL288,Aldi,Health Supplies,Cotton balls,7.97,10.84,9.14,8.9
+TA298,Target,Health Supplies,Ace bandage,2.71,4.87,3.53,3.43
+WA409,Walmart,Office Supplies,Paper clips,3.49,4.49,4.0,3.96
+WA369,Walmart,Flour,Coconut Flour,1.12,3.38,2.09,2.08
+WA508,Walmart,Grains and Lentils,Organic Lentils,1.83,3.22,2.74,2.52
+AL208,Aldi,Oils,Canola Oil,0.92,2.21,1.47,1.43
+WA505,Walmart,Grains and Lentils,Split Peas,3.92,4.46,4.02,3.76
+AL349,Aldi,Baby Care,Breast pump,2.72,3.24,2.99,2.97
+WA348,Walmart,Baby Care,Baby formula,4.11,6.74,5.66,5.27
+AL344,Aldi,Baby Care,Baby brush and comb set,1.31,3.86,2.61,2.55
+WA387,Walmart,Office Supplies,Sticky notes,4.72,7.28,5.51,5.32
+WA001,Walmart,Dairy,Milk,6.17,8.63,7.42,7.41
+AL002,Aldi,Dairy,Cheese,0.62,2.86,1.79,1.77
+WA361,Walmart,Baby Care,Teething toys,2.57,5.15,3.6,3.5
+TA369,Target,Flour,Coconut Flour,6.14,7.16,7.2,7.16
+TA303,Target,Bath,Shampoo,4.03,6.73,5.87,5.72
+AL436,Aldi,Office Supplies,Dry Erase Markers,0.83,2.99,2.09,2.0
+WA476,Walmart,Sweets,Cadbury Dairy Milk,2.09,4.7,3.58,3.5
+AL296,Aldi,Health Supplies,Instant cold packs,0.68,3.01,1.78,1.72
+WA058,Walmart,Produce,Organic Lettuce,1.06,3.35,2.15,2.01
+TA112,Target,Canned Goods,Canned Pumpkin,6.05,7.46,6.99,6.92
+AL322,Aldi,Bath,Candles,7.37,8.71,7.54,7.47
+AL051,Aldi,Produce,Organic Apple,5.35,8.07,7.37,7.33
+TA127,Target,Canned Goods,Organic Canned Peas,8.56,10.61,8.68,8.5
+WA173,Walmart,Frozen,Frozen ice cream,0.96,2.29,1.73,1.71
+WA451,Walmart,Sweets,Reeses Peanut Butter Cups,3.73,4.47,4.06,3.96
+WA126,Walmart,Canned Goods,Organic Canned Corn,2.91,5.18,4.06,3.93
+WA039,Walmart,Produce,Cucumber,5.24,8.23,6.56,6.28
+TA005,Target,Dairy,Cream,2.7,4.36,3.87,3.82
+TA332,Target,Baby Care,Diapers,3.92,4.45,4.51,4.48
+TA188,Target,Frozen,Frozen Organic shrimp,1.24,2.9,1.98,1.96
+WA091,Walmart,Condiments,Honey Mustard,0.62,3.35,1.85,1.84
+AL473,Aldi,Sweets,Ferrero Rocher,2.2,3.14,2.6,2.57
+TA350,Target,Baby Care,Nursing pads,2.72,4.14,3.75,3.71
+AL012,Aldi,Dairy,Cream Cheese,0.89,3.33,2.02,2.0
+AL023,Aldi,Dairy,Organic Ice Cream,1.4,2.98,2.02,1.96
+AL490,Aldi,Grains and Lentils,Chickpeas,4.87,6.15,5.8,5.6
+WA500,Walmart,Grains and Lentils,Farro,6.5,8.28,7.46,7.29
+WA339,Walmart,Baby Care,Diaper rash cream,0.62,2.64,1.52,1.48
+WA029,Walmart,Dairy,Organic Cheddar Cheese,4.55,6.78,6.0,5.62
+TA521,Target,Grains and Lentils,Organic Oats,3.07,5.67,3.95,3.86
+AL381,Aldi,Flour,Soy Flour,5.55,8.39,6.84,6.52
+TA420,Target,Office Supplies,Push Pins,5.75,8.22,6.52,6.45
+WA170,Walmart,Frozen,Frozen hamburger patties,1.93,4.5,3.45,3.3
+TA387,Target,Office Supplies,Sticky notes,5.1,5.99,5.81,5.79
+WA492,Walmart,Grains and Lentils,Kidney Beans,5.45,7.91,6.25,6.1
+TA428,Target,Office Supplies,Drawing Pins,8.74,11.36,10.14,9.89
+TA507,Target,Grains and Lentils,Green Lentils,2.88,4.74,3.73,3.62
+TA062,Target,Produce,Organic Onion,7.66,10.44,9.01,8.98
+TA225,Target,Oils,Organic Coconut Oil,6.75,8.94,8.14,7.95
+TA132,Target,Canned Goods,Organic Canned Pumpkin,7.24,9.32,7.55,7.35
+WA235,Walmart,Oils,Organic Flaxseed Oil,1.16,3.39,2.16,2.01
+TA207,Target,Oils,Sesame Oil,8.28,10.85,10.17,10.0
+AL109,Aldi,Canned Goods,Canned Chicken broth,5.77,7.73,7.1,7.05
+AL330,Aldi,Bath,Bath Pillow,7.03,9.87,7.85,7.67
+TA409,Target,Office Supplies,Paper clips,4.06,5.23,4.47,4.41
+WA109,Walmart,Canned Goods,Canned Chicken broth,6.33,7.06,6.69,6.49
+TA043,Target,Produce,Bell Pepper,1.01,2.82,1.76,1.75
+TA365,Target,Flour,Cake Flour,4.54,5.3,5.19,5.06
+TA422,Target,Office Supplies,Glue Stick,0.73,2.99,1.69,1.69
+TA523,Target,Grains and Lentils,Organic Bulgur,2.15,3.36,3.0,2.94
+AL421,Aldi,Office Supplies,Correction Tape,6.69,7.28,6.36,6.06
+TA359,Target,Baby Care,Baby monitor,8.32,10.01,9.95,9.78
+AL279,Aldi,Health Supplies,Hydrogen peroxide,3.9,5.7,4.99,4.98
+TA325,Target,Bath,Bath Mat,5.04,5.99,5.12,5.12
+TA209,Target,Oils,Peanut Oil,3.02,3.74,3.66,3.63
+TA192,Target,Frozen,Frozen Organic French fries,6.66,7.63,7.09,7.07
+WA455,Walmart,Sweets,Milky Way,6.74,9.36,7.68,7.59
+WA265,Walmart,Spices,Garlic powder,5.55,8.04,6.59,6.16
+WA076,Walmart,Meat,Fish,0.75,3.64,2.22,2.05
+WA445,Walmart,Office Supplies,Legal Pads,6.77,7.5,7.1,7.06
+WA396,Walmart,Office Supplies,Paper bags,3.62,5.5,4.78,4.41
+WA177,Walmart,Frozen,Frozen spinach,5.83,8.14,6.61,6.45
+TA517,Target,Grains and Lentils,Organic Buckwheat,7.73,9.83,8.97,8.77
+AL326,Aldi,Bath,Shower Curtain,1.3,3.91,2.74,2.61
+AL054,Aldi,Produce,Organic Grapes,1.65,2.98,2.33,2.31
+AL037,Aldi,Produce,Carrot,1.71,3.75,2.63,2.59
+TA070,Target,Produce,Organic Blueberry,0.73,1.77,1.37,1.34
+WA062,Walmart,Produce,Organic Onion,2.97,4.07,3.5,3.26
+TA347,Target,Baby Care,Bottle warmer,7.91,9.52,8.13,8.03
+AL127,Aldi,Canned Goods,Organic Canned Peas,3.62,4.87,4.63,4.53
+AL426,Aldi,Office Supplies,Folders,1.32,3.89,2.66,2.59
+WA279,Walmart,Health Supplies,Hydrogen peroxide,0.53,2.76,1.81,1.77
+WA037,Walmart,Produce,Carrot,4.85,6.61,5.72,5.51
+TA137,Target,Canned Goods,Organic Canned Mushrooms,8.48,10.85,9.89,9.71
+AL371,Aldi,Flour,Chickpea Flour,2.75,3.33,3.1,3.07
+AL089,Aldi,Condiments,Barbecue Sauce,5.4,6.94,6.59,6.42
+TA452,Target,Sweets,Snickers,2.88,4.5,3.65,3.63
+TA213,Target,Oils,Walnut Oil,3.99,5.37,4.81,4.72
+WA192,Walmart,Frozen,Frozen Organic French fries,3.8,4.81,3.89,3.58
+TA394,Target,Office Supplies,Paper plates,2.95,4.18,3.31,3.21
+WA457,Walmart,Sweets,Starburst,5.38,6.29,6.21,6.2
+TA150,Target,Beverages,Lemonade,5.01,7.26,5.54,5.38
+TA235,Target,Oils,Organic Flaxseed Oil,0.97,1.55,1.31,1.3
+AL372,Aldi,Flour,Buckwheat Flour,2.88,4.81,3.57,3.57
+TA203,Target,Frozen,Frozen Organic desserts,8.78,9.89,9.71,9.58
+WA413,Walmart,Office Supplies,Pencil,6.48,8.88,7.86,7.33
+TA300,Target,Health Supplies,Prescription medications,7.09,8.57,7.06,6.91
+TA091,Target,Condiments,Honey Mustard,4.32,6.28,5.14,5.05
+WA115,Walmart,Canned Goods,Canned Pineapple,2.06,4.37,3.53,3.51
+WA418,Walmart,Office Supplies,Staples,2.6,4.56,3.84,3.79
+AL449,Aldi,Sweets,M&Ms,2.4,3.57,3.16,3.11
+TA444,Target,Office Supplies,Binder Clips,3.49,5.89,4.9,4.8
+TA079,Target,Meat,Bacon,7.37,9.96,7.94,7.85
+AL455,Aldi,Sweets,Milky Way,6.99,8.35,7.74,7.66
+WA090,Walmart,Condiments,Ranch Dressing,1.54,2.15,1.78,1.72
+TA323,Target,Bath,Epsom Salt,6.49,7.62,6.78,6.71
+AL153,Aldi,Beverages,Smoothie,0.79,1.56,1.2,1.18
+AL454,Aldi,Sweets,Hersheys Milk Chocolate,3.09,5.14,3.8,3.68
+TA228,Target,Oils,Organic Canola Oil,0.57,3.1,1.96,1.9
+WA499,Walmart,Grains and Lentils,Couscous,5.8,7.6,6.76,6.63
+WA012,Walmart,Dairy,Cream Cheese,3.52,5.02,4.03,3.85
+WA397,Walmart,Office Supplies,Newspaper,1.77,3.33,2.6,2.52
+WA285,Walmart,Health Supplies,Disposable gloves,1.22,2.83,1.97,1.94
+AL015,Aldi,Dairy,Parmesan Cheese,4.63,5.34,4.77,4.54
+TA165,Target,Frozen,Frozen fruit,2.12,4.27,3.32,3.26
+AL437,Aldi,Office Supplies,Desk Organizer,4.65,6.39,5.92,5.65
+AL423,Aldi,Office Supplies,Tape Dispenser,2.85,3.77,3.41,3.34
+TA164,Target,Frozen,Frozen vegetables,3.83,4.83,4.16,4.07
+TA326,Target,Bath,Shower Curtain,8.44,11.28,10.53,10.43
+WA160,Walmart,Beverages,Mango Lassi,3.89,5.8,5.32,4.96
+TA370,Target,Flour,Rice Flour,8.61,11.37,9.47,9.3
+AL200,Aldi,Frozen,Frozen Organic dumplings,7.87,8.57,8.63,8.32
+WA258,Walmart,Spices,Rosemary,6.45,7.32,6.86,6.55
+WA336,Walmart,Baby Care,Baby soap,5.53,6.91,6.83,6.4
+AL458,Aldi,Sweets,Nestle Crunch,3.83,5.0,4.08,4.06
+TA514,Target,Grains and Lentils,Organic Basmati Rice,8.95,11.7,10.21,10.13
+WA516,Walmart,Grains and Lentils,Organic Barley,6.65,7.71,7.04,6.62
+TA490,Target,Grains and Lentils,Chickpeas,6.19,8.33,6.76,6.65
+TA243,Target,Oils,Organic Jojoba Oil,1.3,3.33,2.29,2.22
+AL332,Aldi,Baby Care,Diapers,3.4,4.24,3.48,3.38
+TA236,Target,Oils,Organic Almond Oil,4.59,5.16,5.09,5.04
+AL238,Aldi,Oils,Organic Macadamia Nut Oil,6.28,7.44,6.72,6.42
+AL512,Aldi,Grains and Lentils,Organic Quinoa,5.67,6.31,6.09,6.07
+WA522,Walmart,Grains and Lentils,Organic Amaranth,2.37,4.52,3.63,3.45
+WA023,Walmart,Dairy,Organic Ice Cream,2.35,4.12,3.38,3.16
+WA357,Walmart,Baby Care,Baby towels,2.77,4.18,3.3,3.12
+AL287,Aldi,Health Supplies,Alcohol swabs,7.3,9.12,7.78,7.43
+WA341,Walmart,Baby Care,Baby shampoo and body wash combo,4.0,4.75,4.79,4.67
+WA432,Walmart,Office Supplies,Sketchbook,3.95,4.46,3.86,3.64
+WA474,Walmart,Sweets,Ghirardelli Chocolate,4.21,5.85,4.68,4.47
+WA218,Walmart,Oils,Macadamia Nut Oil,6.32,8.93,8.06,7.99
+TA386,Target,Office Supplies,Paper towel,5.69,6.76,6.4,6.21
+AL217,Aldi,Oils,Hazelnut Oil,5.0,5.6,5.31,5.25
+TA486,Target,Sweets,York Peppermint Pattie,0.52,1.28,0.91,0.89
+AL483,Aldi,Sweets,Rolo,4.72,5.87,5.81,5.61
+WA094,Walmart,Condiments,Tartar Sauce,5.33,7.61,6.73,6.4
+TA483,Target,Sweets,Rolo,3.38,4.09,3.98,3.86
+AL019,Aldi,Dairy,Organic Butter,6.64,7.44,7.07,6.78
+AL041,Aldi,Produce,Potato,7.97,10.44,8.4,8.23
+TA171,Target,Frozen,Frozen breakfast items,7.61,9.28,7.73,7.7
+AL361,Aldi,Baby Care,Teething toys,6.0,8.64,7.71,7.55
+TA471,Target,Sweets,Hersheys Kisses,3.89,6.45,5.32,5.31
+WA154,Walmart,Beverages,Beer,1.47,3.65,2.72,2.57
+AL048,Aldi,Produce,Watermelon,1.32,3.14,2.15,2.1
+AL315,Aldi,Bath,Face Towel,4.93,7.01,6.18,6.01
+AL524,Aldi,Grains and Lentils,Organic Split Peas,3.5,5.07,4.1,3.98
+TA264,Target,Spices,Fennel seeds,1.88,2.56,2.13,2.09
+TA055,Target,Produce,Organic Strawberry,6.49,7.48,7.59,7.59
+TA178,Target,Frozen,Frozen broccoli,3.96,6.49,5.56,5.42
+AL273,Aldi,Health Supplies,Band-Aids,6.62,8.0,6.92,6.91
+WA488,Walmart,Sweets,Maltesers,3.29,3.9,3.44,3.27
+TA034,Target,Produce,Grapes,0.81,2.37,1.61,1.58
+AL090,Aldi,Condiments,Ranch Dressing,7.59,8.55,7.96,7.61
+AL068,Aldi,Produce,Organic Watermelon,4.43,5.25,4.88,4.66
+TA276,Target,Health Supplies,Gauze pads,5.72,8.27,6.63,6.58
+WA513,Walmart,Grains and Lentils,Organic Brown Rice,6.11,6.85,6.83,6.7
+TA108,Target,Canned Goods,Canned Tuna,6.12,8.73,8.12,7.92
+AL116,Aldi,Canned Goods,Canned Green beans,1.81,2.66,2.44,2.42
+AL357,Aldi,Baby Care,Baby towels,3.01,5.74,4.03,3.92
+AL099,Aldi,Condiments,Mustard Seed,2.25,4.88,3.83,3.67
+TA265,Target,Spices,Garlic powder,7.25,8.08,7.97,7.8
+WA117,Walmart,Canned Goods,Canned Mushrooms,1.39,1.95,1.8,1.74
+TA215,Target,Oils,Flaxseed Oil,8.07,11.05,9.0,8.82
+AL030,Aldi,Dairy,Organic Parmesan Cheese,4.96,6.63,5.97,5.91
+TA305,Target,Bath,Body Wash,7.77,10.76,9.81,9.67
+WA120,Walmart,Canned Goods,Canned Sardines,5.98,7.32,6.19,5.7
+TA131,Target,Canned Goods,Organic Canned Chickpeas,4.68,5.76,5.0,4.87
+AL446,Aldi,Office Supplies,Ink Cartridges,7.15,8.54,7.95,7.91
+TA110,Target,Canned Goods,Canned Soup (various types),3.94,6.37,4.65,4.62
+WA370,Walmart,Flour,Rice Flour,5.0,5.58,5.78,5.33
+WA269,Walmart,Spices,Saffron,2.97,4.73,4.17,3.93
+TA130,Target,Canned Goods,Organic Canned Soup (various types),4.89,6.12,5.12,5.06
+TA410,Target,Office Supplies,File folders,3.92,6.16,5.01,4.99
+TA297,Target,Health Supplies,Hot water bottle,4.49,6.75,5.73,5.6
+TA341,Target,Baby Care,Baby shampoo and body wash combo,4.12,6.82,5.94,5.9
+WA047,Walmart,Produce,Pineapple,6.21,9.07,8.08,7.97
+AL306,Aldi,Bath,Bubble Bath,6.99,8.0,7.1,7.0
+TA466,Target,Sweets,Toffee,1.08,2.78,1.87,1.85
+TA351,Target,Baby Care,Baby bibs,4.78,6.73,5.77,5.65
+TA248,Target,Spices,Cardamom,5.48,7.58,6.27,6.18
+AL526,Aldi,Grains and Lentils,Organic Green Lentils,4.22,5.95,5.54,5.3
+WA005,Walmart,Dairy,Cream,6.1,7.52,6.33,5.99
+TA478,Target,Sweets,Airheads,8.92,11.85,11.15,10.95
+AL317,Aldi,Bath,Shower Cap,3.02,3.64,3.32,3.18
+WA264,Walmart,Spices,Fennel seeds,5.62,8.08,6.55,6.27
+AL194,Aldi,Frozen,Frozen Organic yogurt,2.11,4.22,3.01,2.88
+AL389,Aldi,Office Supplies,Construction paper,1.4,3.8,2.6,2.51
+WA444,Walmart,Office Supplies,Binder Clips,3.75,6.24,5.45,5.37
+TA477,Target,Sweets,Reeses Pieces,4.56,6.04,5.66,5.57
+AL026,Aldi,Dairy,Organic Evaporated Milk,0.54,2.06,1.38,1.35
+TA312,Target,Bath,Bath Brush,4.88,7.29,5.95,5.85
+AL359,Aldi,Baby Care,Baby monitor,7.31,8.92,7.69,7.69
+WA305,Walmart,Bath,Body Wash,5.89,8.03,7.35,6.87
+AL184,Aldi,Frozen,Frozen Organic vegetables,7.01,9.76,7.95,7.62
+WA314,Walmart,Bath,Hand Towel,1.9,3.73,3.07,2.84
+WA150,Walmart,Beverages,Lemonade,4.72,5.45,4.71,4.5
+AL097,Aldi,Condiments,Salsa,5.09,5.65,5.82,5.7
+TA049,Target,Produce,Kiwi,1.57,2.96,2.33,2.33
+WA051,Walmart,Produce,Organic Apple,6.22,7.85,7.51,7.05
+AL181,Aldi,Frozen,Frozen garlic bread,5.37,7.98,6.29,6.24
+TA201,Target,Frozen,Frozen Organic garlic bread,5.13,6.27,5.36,5.25
+TA308,Target,Bath,Bath Salts,7.5,9.94,8.48,8.28
+AL064,Aldi,Produce,Organic Spinach,7.66,8.99,7.65,7.32
+AL115,Aldi,Canned Goods,Canned Pineapple,6.45,9.38,8.33,7.96
+WA471,Walmart,Sweets,Hersheys Kisses,6.79,9.25,8.19,8.17
+TA446,Target,Office Supplies,Ink Cartridges,5.64,7.77,6.64,6.45
+TA128,Target,Canned Goods,Organic Canned Tuna,3.38,5.54,4.17,4.17
+WA400,Walmart,Office Supplies,Paper napkins,6.79,9.66,8.06,7.72
+WA512,Walmart,Grains and Lentils,Organic Quinoa,4.27,7.08,5.45,5.3
+WA321,Walmart,Bath,Essential Oils,1.27,3.91,2.68,2.5
+WA020,Walmart,Dairy,Organic Cream,3.8,5.42,4.81,4.78
+TA159,Target,Beverages,Apple Juice,2.22,4.36,3.36,3.33
+WA036,Walmart,Produce,Tomato,3.35,6.2,4.82,4.63
+TA377,Target,Flour,Rye Flour,6.82,9.76,7.78,7.59
+TA302,Target,Health Supplies,Medical mask,5.7,7.45,6.38,6.28
+AL364,Aldi,Flour,Bread Flour,4.22,5.74,5.08,4.86
+WA408,Walmart,Office Supplies,Cardstock,5.2,6.4,5.4,5.08
+TA395,Target,Office Supplies,Paper cups,0.6,1.77,1.25,1.25
+TA012,Target,Dairy,Cream Cheese,6.95,8.53,8.17,8.08
+TA233,Target,Oils,Organic Walnut Oil,3.29,5.69,4.7,4.62
+AL011,Aldi,Dairy,Evaporated Milk,2.43,3.71,3.3,3.26
+AL148,Aldi,Beverages,Orange Juice,1.06,2.21,1.55,1.49
+WA246,Walmart,Spices,Cumin,1.38,3.39,2.3,2.21
+AL076,Aldi,Meat,Fish,0.79,2.04,1.41,1.36
+TA259,Target,Spices,Oregano,1.55,2.86,2.38,2.37
+WA490,Walmart,Grains and Lentils,Chickpeas,0.91,2.41,1.69,1.67
+WA155,Walmart,Beverages,Wine,2.79,4.06,3.69,3.52
+TA436,Target,Office Supplies,Dry Erase Markers,1.85,2.37,2.09,2.03
+TA328,Target,Bath,Body Scrub,5.41,6.95,5.94,5.93
+TA100,Target,Condiments,Horseradish,4.34,6.61,5.04,4.96
+TA160,Target,Beverages,Mango Lassi,2.38,3.71,3.28,3.22
+TA044,Target,Produce,Spinach,7.19,8.36,7.67,7.65
+AL447,Aldi,Office Supplies,USB Flash Drive,2.12,4.77,3.6,3.53
+WA018,Walmart,Dairy,Organic Yogurt,5.33,7.3,6.41,6.13
+WA128,Walmart,Canned Goods,Organic Canned Tuna,5.54,7.97,6.49,6.2
+AL499,Aldi,Grains and Lentils,Couscous,4.38,6.97,5.61,5.58
+TA402,Target,Office Supplies,Copy paper,1.49,4.38,2.98,2.93
+TA455,Target,Sweets,Milky Way,6.82,9.52,8.19,8.16
+AL495,Aldi,Grains and Lentils,Basmati Rice,4.13,7.09,5.85,5.69
+WA191,Walmart,Frozen,Frozen Organic breakfast items,6.89,9.71,8.92,8.7
+AL088,Aldi,Condiments,Hot Sauce,1.11,3.28,2.32,2.29
+TA467,Target,Sweets,Caramel,6.95,8.35,8.08,7.94
+AL488,Aldi,Sweets,Maltesers,2.61,4.62,3.97,3.78
+AL265,Aldi,Spices,Garlic powder,4.21,5.57,4.96,4.9
+TA081,Target,Meat,Ham,6.36,7.57,7.19,7.01
+WA181,Walmart,Frozen,Frozen garlic bread,2.05,3.1,2.48,2.36
+WA302,Walmart,Health Supplies,Medical mask,5.87,7.18,6.0,5.62
+WA497,Walmart,Grains and Lentils,Barley,2.74,5.54,4.16,4.05
+AL307,Aldi,Bath,Bath Bombs,2.96,5.12,3.66,3.5
+AL509,Aldi,Grains and Lentils,Organic Chickpeas,3.6,4.66,4.52,4.33
+AL250,Aldi,Spices,Nutmeg,7.3,9.93,7.81,7.71
+WA518,Walmart,Grains and Lentils,Organic Couscous,6.93,7.68,8.02,7.42
+AL018,Aldi,Dairy,Organic Yogurt,6.33,8.09,7.52,7.4
+WA477,Walmart,Sweets,Reeses Pieces,5.79,7.48,6.21,6.07
+WA158,Walmart,Beverages,Sprite,6.63,8.12,7.32,7.32
+AL192,Aldi,Frozen,Frozen Organic French fries,6.64,8.75,7.07,6.86
+AL144,Aldi,Beverages,Spring Water,7.88,10.59,9.26,9.17
+WA017,Walmart,Dairy,Organic Cheese,3.87,5.79,4.91,4.52
+AL021,Aldi,Dairy,Organic Sour Cream,5.89,8.2,7.08,6.78
+AL502,Aldi,Grains and Lentils,Oats,0.94,2.43,1.81,1.77
+TA021,Target,Dairy,Organic Sour Cream,1.4,2.11,1.78,1.76
+TA133,Target,Canned Goods,Organic Canned Salmon,7.23,7.89,7.58,7.44
+AL239,Aldi,Oils,Organic Palm Oil,4.21,5.49,5.27,5.09
+TA494,Target,Grains and Lentils,Brown Rice,6.55,7.8,7.15,7.08
+AL271,Aldi,Spices,Caraway seeds,6.61,8.31,7.24,6.98
+TA434,Target,Office Supplies,Clipboard,7.24,8.98,7.75,7.55
+AL429,Aldi,Office Supplies,Markers,0.58,2.17,1.24,1.24
+WA284,Walmart,Health Supplies,First aid manual,2.65,4.01,3.04,2.96
+TA272,Target,Spices,Celery seeds,8.11,9.4,8.61,8.57
+WA226,Walmart,Oils,Organic Sunflower Oil,5.82,7.02,6.89,6.45
+WA027,Walmart,Dairy,Organic Cream Cheese,3.66,4.62,3.74,3.64
+WA438,Walmart,Office Supplies,Desk Calendar,2.46,5.31,3.53,3.49
+AL482,Aldi,Sweets,Whoppers,4.91,7.06,5.56,5.41
+WA230,Walmart,Oils,Organic Grapeseed Oil,4.55,7.09,5.57,5.37
+WA038,Walmart,Produce,Lettuce,2.23,3.64,2.75,2.65
+TA224,Target,Oils,Organic Olive Oil,8.5,10.58,8.64,8.44
+TA520,Target,Grains and Lentils,Organic Millet,4.12,5.21,5.06,4.96
+WA470,Walmart,Sweets,Haribo Goldbears,0.83,3.08,2.06,1.98
+AL294,Aldi,Health Supplies,Insect repellent,0.98,3.54,2.25,2.21
+AL498,Aldi,Grains and Lentils,Buckwheat,2.88,3.76,3.62,3.51
+TA162,Target,Beverages,Green Tea,4.98,6.46,5.26,5.13
+AL398,Aldi,Office Supplies,Magazines,6.99,8.13,7.04,7.02
+TA114,Target,Canned Goods,Canned Peaches,2.23,3.59,2.81,2.76
+AL310,Aldi,Bath,Shower Gel,2.99,3.68,3.48,3.36
+AL167,Aldi,Frozen,Frozen chicken breasts,7.51,10.08,8.15,7.84
+AL107,Aldi,Canned Goods,Canned Peas,5.95,8.35,7.24,7.11
+AL264,Aldi,Spices,Fennel seeds,7.25,8.54,8.32,8.22
+AL383,Aldi,Office Supplies,Printer paper,4.75,5.36,4.68,4.51
+TA275,Target,Health Supplies,Adhesive tape,6.87,7.66,7.24,7.24
+WA161,Walmart,Beverages,Ginger Ale,1.78,3.96,2.7,2.68
+TA431,Target,Office Supplies,Colored Pencils,0.97,3.66,2.35,2.33
+AL135,Aldi,Canned Goods,Organic Canned Pineapple,4.95,5.62,5.0,4.89
+TA296,Target,Health Supplies,Instant cold packs,7.23,8.59,7.37,7.16
+AL497,Aldi,Grains and Lentils,Barley,2.71,3.93,3.16,3.11
+TA352,Target,Baby Care,Baby clothes,5.38,6.84,6.51,6.46
+TA388,Target,Office Supplies,Index cards,7.41,7.92,7.18,7.16
+WA153,Walmart,Beverages,Smoothie,6.38,8.08,7.34,7.34
+AL393,Aldi,Office Supplies,Wrapping paper,4.51,5.87,4.88,4.64
+WA510,Walmart,Grains and Lentils,Organic Black Beans,4.67,6.7,5.45,5.28
+AL084,Aldi,Condiments,Ketchup,0.87,1.65,1.28,1.24
+AL199,Aldi,Frozen,Frozen Organic berries,0.9,3.13,2.12,2.09
+AL272,Aldi,Spices,Celery seeds,5.79,8.12,7.33,7.26
+WA104,Walmart,Canned Goods,Canned Tomatoes,2.06,5.01,3.59,3.42
+TA061,Target,Produce,Organic Potato,6.44,8.28,6.8,6.6
+AL513,Aldi,Grains and Lentils,Organic Brown Rice,7.64,8.74,8.65,8.32
+AL092,Aldi,Condiments,Sriracha,3.43,4.49,4.0,3.99
+WA054,Walmart,Produce,Organic Grapes,4.82,6.48,5.22,4.84
+WA152,Walmart,Beverages,Hot Chocolate Mix,5.06,5.84,5.75,5.62
+WA404,Walmart,Office Supplies,Legal pads,2.68,3.69,3.26,3.17
+AL478,Aldi,Sweets,Airheads,5.77,7.73,6.77,6.45
+WA208,Walmart,Oils,Canola Oil,1.73,4.23,2.69,2.6
+AL438,Aldi,Office Supplies,Desk Calendar,0.73,2.15,1.36,1.35
+AL071,Aldi,Meat,Beef,6.62,8.11,7.3,7.0
+AL334,Aldi,Baby Care,Baby lotion,7.5,9.58,8.25,8.17
+WA009,Walmart,Dairy,Whipped Cream,2.17,2.78,2.41,2.27
+TA489,Target,Grains and Lentils,Lentils,4.1,6.44,5.58,5.46
+AL363,Aldi,Flour,Whole Wheat Flour,6.2,7.42,6.76,6.68
+AL009,Aldi,Dairy,Whipped Cream,1.85,4.09,3.09,2.95
+WA453,Walmart,Sweets,Twix,5.18,5.73,5.28,5.03
+WA254,Walmart,Spices,Mustard seeds,4.51,5.65,4.77,4.43
+TA371,Target,Flour,Chickpea Flour,5.9,6.78,6.6,6.53
+AL324,Aldi,Bath,Foot Scrub,4.36,5.5,5.22,5.08
+TA355,Target,Baby Care,Baby blankets,7.04,8.02,7.53,7.42
+AL433,Aldi,Office Supplies,Calculator,3.3,5.96,4.37,4.34
+TA098,Target,Condiments,Hummus,4.8,7.03,5.51,5.46
+WA346,Walmart,Baby Care,Baby bottles,6.56,8.92,7.94,7.47
+AL302,Aldi,Health Supplies,Medical mask,1.35,2.01,1.54,1.52
+WA263,Walmart,Spices,Cayenne pepper,5.21,5.79,5.55,5.2
+AL270,Aldi,Spices,Sage,6.12,7.42,6.43,6.29
+WA151,Walmart,Beverages,Iced Tea,1.7,2.31,1.9,1.88
+WA473,Walmart,Sweets,Ferrero Rocher,6.89,9.76,8.93,8.34
+TA115,Target,Canned Goods,Canned Pineapple,7.76,9.86,9.03,8.92
+AL511,Aldi,Grains and Lentils,Organic Kidney Beans,2.76,4.76,3.73,3.62
+AL430,Aldi,Office Supplies,Crayons,1.58,2.95,2.45,2.34
+TA025,Target,Dairy,Organic Condensed Milk,4.84,7.55,6.73,6.6
+TA403,Target,Office Supplies,Kraft paper,3.83,5.89,5.33,5.27
+WA489,Walmart,Grains and Lentils,Lentils,4.16,4.89,4.42,4.23
+AL376,Aldi,Flour,Barley Flour,4.98,6.84,6.07,5.78
+AL120,Aldi,Canned Goods,Canned Sardines,7.33,8.4,8.21,8.06
+WA147,Walmart,Beverages,Tea,3.85,4.66,4.38,4.06
+WA403,Walmart,Office Supplies,Kraft paper,5.69,7.63,7.03,6.82
+TA429,Target,Office Supplies,Markers,1.9,2.71,2.46,2.45
+AL425,Aldi,Office Supplies,Post-it Notes,7.86,9.51,8.81,8.47
+TA134,Target,Canned Goods,Organic Canned Peaches,8.18,9.15,8.56,8.39
+WA464,Walmart,Sweets,Baby Ruth,5.36,7.84,7.21,6.95
+WA187,Walmart,Frozen,Frozen Organic chicken breasts,3.95,5.69,4.98,4.84
+AL096,Aldi,Condiments,Guacamole,4.22,7.04,5.21,5.14
+AL173,Aldi,Frozen,Frozen ice cream,2.96,3.59,3.26,3.19
+TA083,Target,Meat,Crab,6.09,7.29,7.15,7.03
+WA144,Walmart,Beverages,Spring Water,5.17,6.04,5.53,5.25
+TA226,Target,Oils,Organic Sunflower Oil,5.44,8.09,7.05,6.97
+TA456,Target,Sweets,Skittles,2.07,3.52,2.9,2.89
+WA198,Walmart,Frozen,Frozen Organic broccoli,3.78,6.45,4.93,4.6
+TA358,Target,Baby Care,Baby bath tub,1.39,2.19,1.95,1.91
+WA280,Walmart,Health Supplies,Thermometer,0.97,3.15,1.91,1.81
+WA294,Walmart,Health Supplies,Insect repellent,2.31,3.25,2.69,2.55
+AL384,Aldi,Office Supplies,Tissue paper,1.52,3.89,2.65,2.61
+WA401,Walmart,Office Supplies,Brown paper,6.59,7.15,7.23,6.7
+WA123,Walmart,Canned Goods,Canned Spaghetti sauce,2.53,3.83,3.35,3.14
+AL156,Aldi,Beverages,Whiskey,2.37,3.28,3.01,2.88
+WA203,Walmart,Frozen,Frozen Organic desserts,0.7,3.03,1.74,1.71
+TA310,Target,Bath,Shower Gel,2.8,5.73,4.03,3.92
+WA247,Walmart,Spices,Coriander,2.94,4.7,3.65,3.54
+AL443,Aldi,Office Supplies,Manila Folders,7.26,7.83,8.22,8.1
+AL428,Aldi,Office Supplies,Drawing Pins,3.34,4.25,3.53,3.53
+AL102,Aldi,Condiments,Chutney,7.49,10.31,9.58,9.11
+WA385,Walmart,Office Supplies,Toilet paper,3.99,4.67,4.29,4.03
+AL338,Aldi,Baby Care,Baby powder,4.84,5.94,5.29,5.18
+TA329,Target,Bath,Bath Gloves,2.8,4.2,3.58,3.5
+WA220,Walmart,Oils,Pumpkin Seed Oil,1.21,2.51,1.91,1.8
+TA116,Target,Canned Goods,Canned Green beans,2.05,2.91,2.58,2.52
+WA002,Walmart,Dairy,Cheese,1.05,3.45,2.34,2.22
+WA113,Walmart,Canned Goods,Canned Salmon,0.55,2.52,1.47,1.41
+TA173,Target,Frozen,Frozen ice cream,2.71,3.48,2.81,2.78
+AL452,Aldi,Sweets,Snickers,1.91,2.5,1.99,1.98
+TA426,Target,Office Supplies,Folders,4.98,6.25,5.2,5.17
+AL333,Aldi,Baby Care,Baby wipes,6.61,8.59,7.49,7.12
+AL240,Aldi,Oils,Organic Pumpkin Seed Oil,1.35,3.73,2.45,2.37
+AL373,Aldi,Flour,Oat Flour,3.09,3.98,3.82,3.77
+WA442,Walmart,Office Supplies,Spiral Bound Notepad,4.82,6.1,5.22,4.92
+AL085,Aldi,Condiments,Mustard,5.59,6.8,6.54,6.23
+AL205,Aldi,Oils,Coconut Oil,2.08,4.69,3.63,3.61
+TA138,Target,Canned Goods,Organic Canned Black olives,4.42,5.38,4.83,4.79
+AL392,Aldi,Office Supplies,Receipts,4.46,5.83,5.3,5.04
+AL206,Aldi,Oils,Sunflower Oil,4.42,5.41,4.92,4.87
+AL348,Aldi,Baby Care,Baby formula,7.18,9.18,8.1,8.09
+WA318,Walmart,Bath,Exfoliating Scrub,1.44,4.01,2.66,2.63
+TA123,Target,Canned Goods,Canned Spaghetti sauce,3.88,5.98,5.42,5.36
+TA184,Target,Frozen,Frozen Organic vegetables,8.5,10.77,10.44,10.34
+AL331,Aldi,Bath,Shower Speaker,3.26,6.16,4.9,4.85
+AL231,Aldi,Oils,Organic Avocado Oil,2.05,3.14,2.75,2.68
+TA447,Target,Office Supplies,USB Flash Drive,3.15,5.79,4.35,4.23
+TA102,Target,Condiments,Chutney,6.21,7.63,7.53,7.34
+TA107,Target,Canned Goods,Canned Peas,7.34,8.31,7.1,6.89
+AL255,Aldi,Spices,Fenugreek,2.08,4.65,3.05,2.95
+AL197,Aldi,Frozen,Frozen Organic spinach,5.2,7.99,6.13,5.88
+AL486,Aldi,Sweets,York Peppermint Pattie,4.88,6.05,5.0,4.77
+AL203,Aldi,Frozen,Frozen Organic desserts,0.53,1.41,0.88,0.85
+AL320,Aldi,Bath,Bath Tray,4.6,5.92,5.52,5.27
+AL303,Aldi,Bath,Shampoo,3.87,4.66,4.09,3.95
+AL462,Aldi,Sweets,Tootsie Roll,5.12,6.93,5.89,5.72
+AL403,Aldi,Office Supplies,Kraft paper,3.36,6.0,4.5,4.37
+TA270,Target,Spices,Sage,7.39,9.65,8.96,8.77
+TA120,Target,Canned Goods,Canned Sardines,5.97,6.49,6.11,6.01
+TA487,Target,Sweets,Hersheys Special Dark,4.41,5.74,4.95,4.81
+TA031,Target,Produce,Apple,5.81,8.61,7.81,7.71
+TA156,Target,Beverages,Whiskey,5.65,7.61,6.53,6.44
+TA052,Target,Produce,Organic Banana,3.08,4.04,3.39,3.35
+AL058,Aldi,Produce,Organic Lettuce,5.2,7.9,7.08,6.82
+AL215,Aldi,Oils,Flaxseed Oil,6.67,8.11,7.93,7.66
+AL132,Aldi,Canned Goods,Organic Canned Pumpkin,1.02,2.33,1.56,1.54
+WA525,Walmart,Grains and Lentils,Organic Black-eyed Peas,3.93,4.87,4.7,4.56
+AL008,Aldi,Dairy,Ice Cream,5.84,7.27,6.28,6.15
+TA015,Target,Dairy,Parmesan Cheese,2.69,4.34,3.31,3.29
+AL143,Aldi,Canned Goods,Organic Canned Spaghetti sauce,2.24,5.2,3.48,3.4
+TA223,Target,Oils,Jojoba Oil,7.06,8.86,7.96,7.74
+AL406,Aldi,Office Supplies,Tracing paper,3.68,4.45,4.26,4.07
+WA485,Walmart,Sweets,Junior Mints,5.03,7.49,6.15,5.79
+WA096,Walmart,Condiments,Guacamole,5.73,7.75,7.31,7.27
+TA495,Target,Grains and Lentils,Basmati Rice,4.27,5.08,4.95,4.93
+TA038,Target,Produce,Lettuce,1.29,2.76,2.02,2.01
+AL213,Aldi,Oils,Walnut Oil,7.42,9.37,7.95,7.57
+TA217,Target,Oils,Hazelnut Oil,2.21,3.78,2.92,2.85
+TA338,Target,Baby Care,Baby powder,1.72,4.17,2.75,2.69
+TA366,Target,Flour,Pastry Flour,8.69,9.5,9.83,9.73
+TA513,Target,Grains and Lentils,Organic Brown Rice,7.18,7.96,8.13,8.04
+WA207,Walmart,Oils,Sesame Oil,1.05,3.46,2.4,2.3
+WA393,Walmart,Office Supplies,Wrapping paper,3.44,5.03,4.01,3.97
+TA269,Target,Spices,Saffron,1.5,4.3,2.82,2.77
+TA345,Target,Baby Care,Baby pacifiers,3.26,5.61,4.02,3.97
+WA398,Walmart,Office Supplies,Magazines,3.47,3.99,4.1,3.89
+TA241,Target,Oils,Organic Mustard Oil,2.73,4.72,3.37,3.33
+AL396,Aldi,Office Supplies,Paper bags,7.55,10.44,9.08,8.69
+AL190,Aldi,Frozen,Frozen Organic hamburger patties,2.72,3.59,3.03,2.99
+TA503,Target,Grains and Lentils,Amaranth,4.35,7.28,6.31,6.14
+TA117,Target,Canned Goods,Canned Mushrooms,3.91,6.39,4.88,4.76
+TA087,Target,Condiments,Soy Sauce,8.92,11.57,9.51,9.46
+TA435,Target,Office Supplies,Whiteboard,3.15,4.95,3.94,3.9
+TA200,Target,Frozen,Frozen Organic dumplings,3.98,6.14,5.12,5.02
+TA158,Target,Beverages,Sprite,2.71,5.5,4.32,4.21
+WA099,Walmart,Condiments,Mustard Seed,5.74,7.55,6.51,6.24
+TA279,Target,Health Supplies,Hydrogen peroxide,3.54,5.41,4.69,4.67
+WA407,Walmart,Office Supplies,Origami paper,4.85,6.55,5.62,5.26
+WA503,Walmart,Grains and Lentils,Amaranth,5.02,5.77,5.55,5.54
+AL020,Aldi,Dairy,Organic Cream,7.67,9.88,8.86,8.63
+AL005,Aldi,Dairy,Cream,5.31,6.59,5.69,5.64
+TA404,Target,Office Supplies,Legal pads,4.15,5.86,4.52,4.41
+TA254,Target,Spices,Mustard seeds,4.29,6.21,5.43,5.28
+WA201,Walmart,Frozen,Frozen Organic garlic bread,4.3,6.43,4.91,4.75
+WA135,Walmart,Canned Goods,Organic Canned Pineapple,2.85,5.8,4.51,4.25
+TA526,Target,Grains and Lentils,Organic Green Lentils,2.89,5.35,4.31,4.24
+WA041,Walmart,Produce,Potato,0.8,3.26,1.88,1.84
+TA492,Target,Grains and Lentils,Kidney Beans,4.72,6.46,5.82,5.74
+WA231,Walmart,Oils,Organic Avocado Oil,6.02,7.98,6.39,6.39
+WA379,Walmart,Flour,Cornmeal,5.22,7.69,6.55,6.38
+WA289,Walmart,Health Supplies,Cough drops,2.56,5.17,4.07,3.98
+WA419,Walmart,Office Supplies,Binder,4.55,7.49,5.59,5.39
+WA392,Walmart,Office Supplies,Receipts,5.22,7.68,6.19,5.86
+TA067,Target,Produce,Organic Pineapple,7.52,9.11,8.17,7.97
+AL111,Aldi,Canned Goods,Canned Chickpeas,4.06,5.65,4.86,4.74
+AL035,Aldi,Produce,Strawberry,7.6,9.75,9.25,9.19
+TA122,Target,Canned Goods,Canned Artichoke hearts,5.19,6.93,5.9,5.81
+AL101,Aldi,Condiments,Sweet Chili Sauce,7.54,8.57,7.48,7.48
+AL316,Aldi,Bath,Bathrobe,6.22,7.38,7.45,7.23
+WA521,Walmart,Grains and Lentils,Organic Oats,5.44,6.07,5.49,5.09
+WA065,Walmart,Produce,Organic Mushroom,3.46,5.82,4.64,4.36
+WA015,Walmart,Dairy,Parmesan Cheese,2.83,4.02,3.23,3.01
+AL129,Aldi,Canned Goods,Organic Canned Chicken broth,3.32,4.51,4.25,4.15
+AL013,Aldi,Dairy,Mozzarella Cheese,7.81,10.64,9.04,8.69
+WA493,Walmart,Grains and Lentils,Quinoa,0.97,3.88,2.54,2.34
+WA380,Walmart,Flour,Semolina Flour,1.75,3.41,2.46,2.41
+WA188,Walmart,Frozen,Frozen Organic shrimp,3.02,5.58,4.37,4.18
+TA238,Target,Oils,Organic Macadamia Nut Oil,2.2,4.28,2.95,2.94
+WA217,Walmart,Oils,Hazelnut Oil,6.2,8.39,6.57,6.52
+TA266,Target,Spices,Onion powder,4.52,5.86,5.25,5.17
+AL025,Aldi,Dairy,Organic Condensed Milk,4.81,5.96,5.56,5.5
+TA353,Target,Baby Care,Baby socks,3.12,5.36,4.25,4.13
+WA338,Walmart,Baby Care,Baby powder,4.59,5.49,4.92,4.72
+TA194,Target,Frozen,Frozen Organic yogurt,8.46,9.82,9.57,9.37
+WA296,Walmart,Health Supplies,Instant cold packs,4.95,7.79,6.5,6.08
+TA491,Target,Grains and Lentils,Black Beans,6.47,8.6,7.98,7.75
+AL224,Aldi,Oils,Organic Olive Oil,2.23,4.3,3.53,3.51
+AL434,Aldi,Office Supplies,Clipboard,7.34,8.66,8.53,8.22
+WA456,Walmart,Sweets,Skittles,4.22,5.87,4.77,4.63
+AL523,Aldi,Grains and Lentils,Organic Bulgur,7.7,9.85,9.13,9.08
+TA290,Target,Health Supplies,Cold and flu medicine,2.04,4.43,3.36,3.3
+WA270,Walmart,Spices,Sage,3.94,4.96,4.17,3.91
+TA470,Target,Sweets,Haribo Goldbears,8.69,9.51,9.35,9.26
+WA202,Walmart,Frozen,Frozen Organic pasta,4.25,6.84,5.94,5.9
+WA162,Walmart,Beverages,Green Tea,2.29,3.98,2.93,2.82
+TA204,Target,Oils,Olive Oil,5.7,8.1,7.14,7.14
+WA402,Walmart,Office Supplies,Copy paper,6.17,8.88,7.15,6.7
+TA177,Target,Frozen,Frozen spinach,5.22,6.34,6.27,6.24
+AL078,Aldi,Meat,Salmon,2.22,2.9,2.34,2.29
+TA040,Target,Produce,Broccoli,2.35,3.02,2.87,2.86
+AL362,Aldi,Flour,All-Purpose Flour,4.49,5.6,5.46,5.28
+TA496,Target,Grains and Lentils,Wild Rice,6.45,8.5,7.43,7.34
+TA500,Target,Grains and Lentils,Farro,1.43,3.99,2.79,2.77
+AL360,Aldi,Baby Care,Baby first aid kit,3.14,5.41,4.4,4.26
+AL053,Aldi,Produce,Organic Orange,5.39,7.85,6.54,6.51
+WA206,Walmart,Oils,Sunflower Oil,6.8,9.77,7.49,7.49
+WA035,Walmart,Produce,Strawberry,1.14,2.39,1.87,1.81
+TA250,Target,Spices,Nutmeg,1.35,3.5,2.33,2.26
+WA509,Walmart,Grains and Lentils,Organic Chickpeas,0.64,2.53,1.54,1.48
+AL400,Aldi,Office Supplies,Paper napkins,5.85,7.26,6.99,6.91
+AL427,Aldi,Office Supplies,Rubber Bands,4.33,6.56,5.07,4.91
+AL501,Aldi,Grains and Lentils,Millet,3.62,5.59,4.82,4.74
+AL339,Aldi,Baby Care,Diaper rash cream,3.95,5.13,4.36,4.29
+WA092,Walmart,Condiments,Sriracha,3.27,4.91,3.96,3.92
+AL312,Aldi,Bath,Bath Brush,7.62,8.61,8.09,7.75
+TA372,Target,Flour,Buckwheat Flour,7.49,10.33,8.47,8.4
+TA039,Target,Produce,Cucumber,0.66,1.31,1.03,1.0
+AL318,Aldi,Bath,Exfoliating Scrub,1.21,2.94,1.91,1.82
+TA251,Target,Spices,Paprika,8.75,10.62,10.31,10.19
+WA242,Walmart,Oils,Organic Soybean Oil,1.54,2.59,2.01,1.94
+WA014,Walmart,Dairy,Cheddar Cheese,6.53,8.74,6.89,6.57
+WA316,Walmart,Bath,Bathrobe,6.24,8.11,7.51,7.15
+TA075,Target,Meat,Lamb,2.25,4.89,3.32,3.24
+WA388,Walmart,Office Supplies,Index cards,6.48,7.54,7.37,7.23
+AL246,Aldi,Spices,Cumin,7.95,9.73,8.23,8.13
+WA167,Walmart,Frozen,Frozen chicken breasts,4.31,5.03,4.22,4.05
+TA315,Target,Bath,Face Towel,1.27,2.65,2.08,2.03
+WA021,Walmart,Dairy,Organic Sour Cream,0.68,2.46,1.57,1.51
+TA121,Target,Canned Goods,Canned Refried beans,7.94,8.81,8.74,8.59
+AL457,Aldi,Sweets,Starburst,3.57,5.7,4.41,4.29
+AL103,Aldi,Condiments,Miso Paste,6.49,7.68,7.69,7.43
+AL477,Aldi,Sweets,Reeses Pieces,6.73,9.34,7.86,7.74
+TA306,Target,Bath,Bubble Bath,2.8,3.64,3.04,3.01
+AL216,Aldi,Oils,Almond Oil,6.97,9.19,7.5,7.44
+TA037,Target,Produce,Carrot,2.68,4.56,3.97,3.92
+AL485,Aldi,Sweets,Junior Mints,4.36,6.59,5.37,5.2
+TA161,Target,Beverages,Ginger Ale,2.69,5.59,3.77,3.7
+TA432,Target,Office Supplies,Sketchbook,4.03,5.82,4.58,4.56
+WA190,Walmart,Frozen,Frozen Organic hamburger patties,2.09,4.1,3.31,3.1
+TA450,Target,Sweets,Kit Kat,8.32,11.18,9.33,9.07
+TA174,Target,Frozen,Frozen yogurt,5.17,8.05,6.73,6.66
+AL448,Aldi,Office Supplies,Mouse Pad,2.15,2.67,2.2,2.16
+WA511,Walmart,Grains and Lentils,Organic Kidney Beans,6.79,9.12,7.34,7.0
+AL031,Aldi,Produce,Apple,4.61,6.22,5.75,5.6
+WA475,Walmart,Sweets,Toblerone,5.79,7.06,6.78,6.6
+TA331,Target,Bath,Shower Speaker,3.77,5.51,4.89,4.78
+TA222,Target,Oils,Soybean Oil,4.2,6.2,5.17,5.09
+WA253,Walmart,Spices,Ginger,4.36,5.09,4.44,4.28
+WA022,Walmart,Dairy,Organic Cottage Cheese,6.87,9.38,8.39,8.34
+AL286,Aldi,Health Supplies,Hand sanitizer,4.88,6.04,5.16,5.12
+WA460,Walmart,Sweets,3 Musketeers,5.71,7.65,6.3,6.18
+AL133,Aldi,Canned Goods,Organic Canned Salmon,2.17,4.19,3.48,3.35
+WA277,Walmart,Health Supplies,"Pain relievers (e.g., acetaminophen, ibuprofen)",3.85,6.65,5.7,5.26
+TA430,Target,Office Supplies,Crayons,3.4,4.52,3.61,3.52
+AL164,Aldi,Frozen,Frozen vegetables,4.15,5.39,5.16,5.11
+WA386,Walmart,Office Supplies,Paper towel,6.15,8.61,7.43,7.2
+TA280,Target,Health Supplies,Thermometer,7.35,8.59,8.65,8.47
+AL386,Aldi,Office Supplies,Paper towel,3.94,6.89,5.46,5.28
+AL464,Aldi,Sweets,Baby Ruth,3.19,4.91,4.42,4.26
+WA344,Walmart,Baby Care,Baby brush and comb set,4.78,7.34,6.58,6.46
+TA244,Target,Spices,Cinnamon,3.25,4.81,3.71,3.63
+AL281,Aldi,Health Supplies,Digital blood pressure monitor,0.91,1.59,1.26,1.23
+WA131,Walmart,Canned Goods,Organic Canned Chickpeas,1.98,4.64,3.1,3.08
+TA346,Target,Baby Care,Baby bottles,2.36,3.34,2.92,2.88
+AL072,Aldi,Meat,Chicken,5.3,7.92,6.63,6.55
+AL345,Aldi,Baby Care,Baby pacifiers,6.27,7.56,6.94,6.85
+WA088,Walmart,Condiments,Hot Sauce,4.83,6.04,5.39,5.37
+AL431,Aldi,Office Supplies,Colored Pencils,7.71,8.66,8.5,8.31
+WA331,Walmart,Bath,Shower Speaker,5.82,7.79,7.3,6.9
+AL187,Aldi,Frozen,Frozen Organic chicken breasts,6.84,7.36,6.39,6.38
+WA467,Walmart,Sweets,Caramel,4.05,5.38,4.78,4.73
+WA122,Walmart,Canned Goods,Canned Artichoke hearts,3.64,6.31,5.28,4.97
+TA519,Target,Grains and Lentils,Organic Farro,4.93,6.69,6.06,6.02
+AL044,Aldi,Produce,Spinach,3.0,5.2,4.41,4.38
+AL079,Aldi,Meat,Bacon,0.56,2.87,1.75,1.72
+AL243,Aldi,Oils,Organic Jojoba Oil,7.84,9.75,7.92,7.92
+TA335,Target,Baby Care,Baby shampoo,5.44,6.79,5.61,5.53
+AL408,Aldi,Office Supplies,Cardstock,5.0,6.8,5.49,5.44
+AL075,Aldi,Meat,Lamb,7.77,8.29,8.37,8.1

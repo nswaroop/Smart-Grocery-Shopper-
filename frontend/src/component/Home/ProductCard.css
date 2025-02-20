@@ -1,0 +1,47 @@
+.outerblock {
+    display: flex;
+    align-items:center;
+  }
+  
+  .insideBlock > button {
+    border: none;
+    background-color: rgba(0, 0, 0, 0.447);
+    padding: 0.5vmax;
+    cursor: pointer;
+    color: white;
+    transition: all 0.5s;
+    border-radius: 20px;
+  }
+  .insideBlock > button:hover {
+    background-color: rgba(0, 0, 0, 0.702);
+  }
+  
+  .insideBlock > input {
+    border: none;
+    padding: 0.5vmax;
+    width: 0.5vmax;
+    text-align: center;
+    outline: none;
+    font: 400 0.8vmax "Roboto";
+    color: rgba(0, 0, 0, 0.74);
+  }
+  
+  .outerblock > button:last-child {
+    border: none;
+    cursor: pointer;
+    color: white;
+    transition: all 0.5s;
+    background-color: #47da73;
+    font: 500 0.7vmax "Roboto";
+    border-radius: 20px;
+    padding: 0.5vmax 1vmax;
+    margin: 1vmax;
+    outline: none;
+  }
+  
+  .outerblock > button:last-child:hover {
+    background-color: rgb(29, 80, 10);
+  }
+  
+ 
+  
